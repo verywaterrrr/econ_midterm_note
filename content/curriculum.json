@@ -1,0 +1,2536 @@
+[
+  {
+    "key": "1",
+    "title": "Chapter 1 — Ten Principles of Economics",
+    "items": [
+      {
+        "objective": "Explain scarcity, constraints and why choices involve trade-offs. Identify the alternatives forgone in a decision.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-01",
+        "position": 1,
+        "title": "Scarcity & trade-offs / 稀缺與取捨",
+        "en": "Scarcity means available resources cannot satisfy every want. A constraint limits feasible choices. Choosing one use of time or money gives up other possible uses.",
+        "zh": "稀缺同時涉及有限資源和人們的需要。預算、時間和能力限制可行選項；做選擇就要放棄其他用途。",
+        "example": "Example 例：You have 2 hours; studying takes 2 hours and working takes 2 hours. You can do either, but cannot do both. 只有兩小時，讀書和打工各要兩小時，兩者不能同時完成。",
+        "question": "You have $100; two activities each cost $80. What creates the trade-off? 兩項活動各要 $80，取捨來自什麼？",
+        "options": [
+          "Limited budget / 預算有限",
+          "No preferences / 沒有喜好",
+          "Unlimited resources / 資源無限",
+          "No alternatives / 沒有選項"
+        ],
+        "answer": 0,
+        "why": "The budget prevents choosing both. 預算限制使你必須取捨。",
+        "graph": "",
+        "file": "ch1-01.html"
+      },
+      {
+        "objective": "Calculate the opportunity cost of an action, including money spent and the value of the **best** forgone alternative. Avoid adding the values of several mutually exclusive alternatives together.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-02",
+        "position": 2,
+        "title": "Opportunity cost / 機會成本",
+        "en": "Count the resources actually sacrificed plus the value of the best forgone alternative. When alternatives are mutually exclusive, their values are not added together. Avoid counting the same cost twice.",
+        "zh": "機會成本包括實際犧牲的金錢與最佳放棄選項的價值。互斥選項只取最佳一個，避免重複計算。",
+        "example": "Example 例：A free study session replaces a $200 job or a free outing worth $120. Opportunity cost = max(200,120) = $200. 免費讀書活動的最佳替代方案是賺 $200。",
+        "question": "A $50 concert replaces a job earning $100 or a free walk worth $30. Opportunity cost? $50 演唱會取代賺 $100 的工作或價值 $30 的散步，成本多少？",
+        "options": [
+          "$100",
+          "$150",
+          "$180",
+          "$50"
+        ],
+        "answer": 1,
+        "why": "$50 ticket plus $100 best alternative = $150. 門票加最佳放棄收入，散步不另加。",
+        "graph": "",
+        "file": "ch1-02.html"
+      },
+      {
+        "objective": "Compare alternatives using benefits and opportunity costs, including benefits that are not naturally expressed in dollars: ask what someone would be willing to pay for them.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-03",
+        "position": 3,
+        "title": "Valuing alternatives / 比較方案價值",
+        "en": "Put benefits and costs on a common scale using willingness to pay. Compare the net benefit of each feasible option, including time and forgone income. A benefit can have economic value without being cash income.",
+        "zh": "可用願付價格衡量快樂或休息等非金錢收益。把每個方案的收益減去相關成本，並包括放棄收入，再比較淨收益。",
+        "example": "Example 例：A trip brings enjoyment valued at $500, costs $200 and replaces $150 work. Net advantage over work = 500−200−150 = $150. 旅遊的額外淨收益為 $150。",
+        "question": "Enjoyment is worth $300; ticket costs $100; forgone wages are $250. Net advantage of attending? 參加活動的淨優勢？",
+        "options": [
+          "+$150",
+          "+$50",
+          "−$50",
+          "−$150"
+        ],
+        "answer": 2,
+        "why": "300−100−250 = −50. Attending gives less value than the work alternative.",
+        "graph": "",
+        "file": "ch1-03.html"
+      },
+      {
+        "objective": "Recognize a sunk cost and exclude it from a forward-looking decision; compare the **additional** benefit and **additional** cost of proceeding.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-04",
+        "position": 4,
+        "title": "Sunk cost / 沉沒成本",
+        "en": "An unrecoverable past cost cannot change with today's decision. Compare the future benefit and future cost of continuing; include any recoverable resale value that would be sacrificed.",
+        "zh": "無法收回的過去支出不隨今天的選擇改變。繼續與否只比較未來相關成本及收益；若可出售資產，放棄的售價仍有關。",
+        "example": "Example 例：Already spent $5m; finishing costs $1m and yields $3m. Continue because 3−1 = +$2m. 已花 $5m 不影響現在完成的額外淨收益。",
+        "question": "Past research cost $8m; completion costs $2m; new revenue $1.5m. What should the firm do? 應否完成？",
+        "options": [
+          "Continue; past cost is large / 繼續",
+          "Stop only if past cost is zero / 過去成本零才停止",
+          "Continue; revenue is positive / 繼續",
+          "Stop; future net benefit is negative / 停止"
+        ],
+        "answer": 3,
+        "why": "1.5−2 = −$0.5m. Continuing reduces wealth further. 繼續會額外損失 $0.5m。",
+        "graph": "",
+        "file": "ch1-04.html"
+      },
+      {
+        "objective": "Apply marginal reasoning: take an additional action when its marginal benefit exceeds its marginal cost, and identify the relevant margin in a numerical question.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-05",
+        "position": 5,
+        "title": "Marginal reasoning / 邊際決策",
+        "en": "Marginal means additional. Take the next unit when its extra benefit exceeds its extra cost. Total or average benefits cannot by themselves determine whether one more unit is worthwhile.",
+        "zh": "邊際是額外一單位的變化。下一單位的收益高於成本就值得；總收益或平均收益不足以決定是否多做一單位。",
+        "example": "Example 例：A third study hour adds 8 expected marks and costs leisure valued at 5 mark-equivalents. Extra net gain = 3, so study that hour. 第三小時額外淨收益為 3。",
+        "question": "An extra unit brings $12 revenue and $15 additional cost. Should output increase? 多做一件是否值得？",
+        "options": [
+          "No; marginal net benefit is −$3 / 不值得",
+          "No; all production is unprofitable / 全部停產",
+          "Yes; total sales rise / 值得",
+          "Yes; average cost may fall / 值得"
+        ],
+        "answer": 0,
+        "why": "12−15 = −3 for this additional unit; this does not establish the profitability of all output.",
+        "graph": "",
+        "file": "ch1-05.html"
+      },
+      {
+        "objective": "Predict how a change in rewards, penalties or other incentives changes behavior.",
+        "section": "Scarcity, choices and opportunity cost",
+        "id": "1-06",
+        "position": 6,
+        "title": "Incentives / 激勵",
+        "en": "A reward or penalty changes the relative payoff from an action. Predict the response at the affected margin, allowing for unintended consequences and differences between individuals.",
+        "zh": "獎勵與懲罰會改變行動的相對收益。要辨認哪個選擇的成本或收益改變，並考慮行為反應及非預期效果。",
+        "example": "Example 例：A charge on plastic bags raises the cost of using each bag, encouraging shoppers to bring reusable bags. 膠袋費改變每次使用膠袋的成本。",
+        "question": "A parking fine increases, with enforcement unchanged. What incentive changes? 執法不變但罰款增加，誘因如何變？",
+        "options": [
+          "The expected penalty falls / 預期罰則下降",
+          "Illegal parking becomes more costly / 違泊成本上升",
+          "Legal parking becomes prohibited / 合法泊車被禁",
+          "All drivers stop driving / 所有人停駕"
+        ],
+        "answer": 1,
+        "why": "A larger fine raises the expected cost of a violation, holding detection probability fixed.",
+        "graph": "",
+        "file": "ch1-06.html"
+      },
+      {
+        "objective": "Explain how specialization and voluntary trade can benefit participants.",
+        "section": "Interaction, markets and government",
+        "id": "1-07",
+        "position": 7,
+        "title": "Specialization & exchange / 專門化與交換",
+        "en": "Specialization lets people concentrate on activities with lower relative opportunity cost. Voluntary exchange can then give both a more valuable consumption bundle. Gains depend on the trade terms and available alternatives.",
+        "zh": "專門化讓人集中於機會成本較低的活動。適當交易條件下，雙方都可得到比自行生產更好的消費組合。",
+        "example": "Example 例：A gives up 2 meals to make a shirt; B gives up 4. A sells a shirt for 3 meals: A gains 1 meal and B saves 1 meal. 一件衫換三餐令雙方獲益。",
+        "question": "A's cost of a shirt is 2 meals; B's is 4. Which trade price benefits both strictly? 何種價格令雙方嚴格得益？",
+        "options": [
+          "1 meal / 一餐",
+          "2 meals / 兩餐",
+          "3 meals / 三餐",
+          "5 meals / 五餐"
+        ],
+        "answer": 2,
+        "why": "The price lies between 2 and 4. 價格介乎雙方機會成本之間。",
+        "graph": "",
+        "file": "ch1-07.html"
+      },
+      {
+        "objective": "Define a market, market economy, property rights, and the “invisible hand”; explain how prices coordinate buyers' and sellers' choices.",
+        "section": "Interaction, markets and government",
+        "id": "1-08",
+        "position": 8,
+        "title": "Markets, prices & property / 市場、價格與產權",
+        "en": "A market is a group of buyers and sellers. In a market economy, decentralized choices coordinate through prices. Property rights support ownership and exchange; the invisible hand describes how self-interested choices can coordinate resource allocation under suitable conditions.",
+        "zh": "市場是買家與賣家的集合；市場經濟靠分散決策及價格協調資源。產權保障擁有和交易權利，價格傳遞稀缺與價值資訊。",
+        "example": "Example 例：Coffee becomes scarce; a higher price encourages conservation and greater supply. Enforceable ownership lets sellers receive payment. 咖啡價格上升同時影響買賣雙方誘因。",
+        "question": "Which signal coordinates buyers and sellers in a market economy? 什麼訊號協調市場？",
+        "options": [
+          "A fixed production order for every firm / 統一產量命令",
+          "Equal incomes for all / 所有人同收入",
+          "The disappearance of property rights / 取消產權",
+          "A common price / 市場價格"
+        ],
+        "answer": 3,
+        "why": "Prices communicate relative scarcity and incentives. 價格把稀缺資訊傳給市場參與者。",
+        "graph": "",
+        "file": "ch1-08.html"
+      },
+      {
+        "objective": "Distinguish efficiency from equality and identify the potential trade-off between them.",
+        "section": "Interaction, markets and government",
+        "id": "1-09",
+        "position": 9,
+        "title": "Efficiency & equality / 效率與平等",
+        "en": "Efficiency concerns the size of total economic benefits from resources. Equality concerns their distribution. Redistribution may improve equality while changing incentives and the total surplus; the trade-off depends on the policy.",
+        "zh": "效率問總收益是否最大；平等問收益如何分配。重新分配可能改善分配，同時改變工作或投資誘因。",
+        "example": "Example 例：A tax-transfer policy gives poorer households more income, but may reduce the reward to extra work. 轉移支付改善分配，也可能影響工作誘因。",
+        "question": "A policy redistributes income while reducing total surplus. Which description fits? 重分配同時減少總剩餘？",
+        "options": [
+          "Equality may improve, efficiency falls / 平等可能改善，效率下降",
+          "Both must improve / 兩者必改善",
+          "Efficiency rises by definition / 效率必升",
+          "Neither distribution nor incentives changes / 均無變"
+        ],
+        "answer": 0,
+        "why": "Distribution and total gains are separate criteria. 分配與總收益須分別判斷。",
+        "graph": "",
+        "file": "ch1-09.html"
+      },
+      {
+        "objective": "Recognize externalities and market power as possible sources of market failure; identify whether an intervention is motivated by efficiency, equality or both.",
+        "section": "Interaction, markets and government",
+        "id": "1-10",
+        "position": 10,
+        "title": "Market failure / 市場失靈",
+        "en": "Externalities affect people outside a transaction; market power lets a participant influence price. Both can prevent efficient allocation. A policy may instead be motivated by equality, or pursue both aims.",
+        "zh": "外部性影響交易以外的人；市場力量讓參與者影響價格。兩者可使市場結果偏離效率；其他政策可能主要關心收入分配。",
+        "example": "Example 例：A smoke restriction protects bystanders, addressing an externality. Food vouchers target low incomes, mainly addressing equality. 禁煙與食物券的政策動機不同。",
+        "question": "A rule reduces pollution imposed on nearby residents. Its direct efficiency rationale? 減少居民承受污染的效率理由？",
+        "options": [
+          "Increasing market power / 增加市場力量",
+          "Correcting an externality / 修正外部性",
+          "Eliminating every trade-off / 消除所有取捨",
+          "Guaranteeing equal profit / 保證同利潤"
+        ],
+        "answer": 1,
+        "why": "The rule addresses costs borne by nonparticipants. 污染成本由交易外的第三方承受。",
+        "graph": "",
+        "file": "ch1-10.html"
+      }
+    ],
+    "sources": "Ch 1 slides, especially 6–34; `Chapter 1&2.pdf`, Ch 1 questions 2, 5, 7–8."
+  },
+  {
+    "key": "2",
+    "title": "Chapter 2 — Thinking Like an Economist",
+    "items": [
+      {
+        "objective": "Explain the role of assumptions, simplified models, observations and evidence in economic analysis.",
+        "section": "Economic thinking and models",
+        "id": "2-01",
+        "position": 1,
+        "title": "Models & evidence / 模型與證據",
+        "en": "Models deliberately omit detail to isolate important relationships. Assumptions should fit the question and time horizon. Observations generate hypotheses, and evidence can support or challenge them.",
+        "zh": "模型透過假設省略細節，突出重要關係。假設應配合問題及時間範圍，理論須接受資料檢驗。",
+        "example": "Example 例：A two-good economy isolates a production trade-off. Adding many goods may obscure this lesson without changing it. 兩商品模型令取捨更清楚。",
+        "question": "Why use a simplified model? 為何簡化模型？",
+        "options": [
+          "To avoid evidence / 避免資料",
+          "To include every detail / 包括所有細節",
+          "To isolate relevant mechanisms / 突出相關機制",
+          "To guarantee all predictions / 保證預測"
+        ],
+        "answer": 2,
+        "why": "Useful simplification focuses attention while retaining relevant relationships.",
+        "graph": "",
+        "file": "ch2-01.html"
+      },
+      {
+        "objective": "Distinguish microeconomics from macroeconomics, and positive statements that can be tested from normative judgments about what ought to happen.",
+        "section": "Economic thinking and models",
+        "id": "2-02",
+        "position": 2,
+        "title": "Micro, macro & statements / 微觀、宏觀與陳述",
+        "en": "Microeconomics studies individual choices and markets; macroeconomics studies aggregate outcomes. Positive claims can be tested against evidence; normative claims include a value judgment about what ought to happen.",
+        "zh": "微觀研究個人及市場，宏觀研究整體經濟。實證陳述原則上可檢驗；規範陳述涉及應該如何做的價值觀。",
+        "example": "Example 例：“A tax reduces purchases” is positive; “The government should impose it” is normative. 稅是否減少購買可測試，應否徵稅含價值判斷。",
+        "question": "Which is normative? 哪句是規範陳述？",
+        "options": [
+          "Higher costs reduced supply / 成本升令供給減少",
+          "Unemployment increased / 失業增加",
+          "Demand fell / 需求下降",
+          "Government should cut tax / 政府應減稅"
+        ],
+        "answer": 3,
+        "why": "“Should” expresses a recommendation requiring values as well as facts.",
+        "graph": "",
+        "file": "ch2-02.html"
+      },
+      {
+        "objective": "Explain why economists may disagree about evidence, model assumptions, parameter estimates or values.",
+        "section": "Economic thinking and models",
+        "id": "2-03",
+        "position": 3,
+        "title": "Why economists disagree / 經濟學家為何分歧",
+        "en": "Economists can disagree about causal theories, assumptions, estimated responses or social values. Agreement on an effect does not guarantee agreement on whether a policy is desirable.",
+        "zh": "分歧可來自理論、假設、估計參數或價值觀。即使同意政策效果，也可能因對平等或效率的重視不同而不同意政策。",
+        "example": "Example 例：Two economists agree a tax raises revenue, but disagree on how much labor supply falls and how important redistribution is. 對反應大小和分配價值均可有分歧。",
+        "question": "Both agree on a policy's effects but prefer different outcomes. Main source of disagreement? 效果相同、偏好結果不同，分歧主要來自？",
+        "options": [
+          "Values / 價值觀",
+          "Arithmetic error necessarily / 必定算錯",
+          "Different observed prices necessarily / 必定價格不同",
+          "No economic reasoning / 沒有經濟推理"
+        ],
+        "answer": 0,
+        "why": "Different normative weights can produce different recommendations.",
+        "graph": "",
+        "file": "ch2-03.html"
+      },
+      {
+        "objective": "Read the circular-flow diagram: households own and sell factors of production and buy goods; firms buy factors and sell goods. Trace the corresponding flows of goods, inputs and money.",
+        "section": "Economic thinking and models",
+        "id": "2-04",
+        "position": 4,
+        "title": "Circular flow / 經濟循環",
+        "en": "Households supply factors to firms and buy goods from firms. Firms pay factor incomes and receive sales revenue. Real goods and inputs flow in the opposite direction to the associated money payments.",
+        "zh": "家庭提供勞工、土地及資本，並購買商品；企業購買要素並出售商品。實物流向與相應付款方向相反。",
+        "example": "Example 例：You work in a bakery and receive wages through the factor market; buying bread uses the goods market. 你在餅店工作和買麵包屬不同市場。",
+        "question": "In the factor market, households are usually what? 家庭在生產要素市場扮演什麼角色？",
+        "options": [
+          "Sellers of all final goods / 所有成品賣家",
+          "Sellers of inputs / 要素賣家",
+          "Buyers of final bread / 麵包買家",
+          "Only government agents / 政府代理"
+        ],
+        "answer": 1,
+        "why": "Households own factors and supply them to firms. 家庭擁有並提供生產要素。",
+        "graph": "circular",
+        "file": "ch2-04.html"
+      },
+      {
+        "objective": "Identify feasible, infeasible, efficient and inefficient points; explain why a point inside the frontier indicates unused or misallocated resources.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-05",
+        "position": 5,
+        "title": "PPF locations / PPF 位置判讀",
+        "en": "Points on the PPF are productively efficient; points inside are feasible but inefficient. Points outside are infeasible with current resources and technology. Moving from an interior point toward the frontier can increase output without sacrificing the other good.",
+        "zh": "邊界上具生產效率，內部可行但有資源閒置或分配不當，外部在現有條件下不可達。由內部改善可同時增加產量。",
+        "example": "Example 例：With X+Y≤10, (4,4) is interior, (4,6) is on the frontier, and (6,6) is outside. 三點分別代表無效率、效率、不可行。",
+        "question": "If X+Y≤10, how is (3,5) classified? 如何分類？",
+        "options": [
+          "Infeasible / 不可行",
+          "Only feasible after trade / 交易後才可行",
+          "Feasible and inefficient / 可行但無效率",
+          "Feasible and efficient / 可行有效率"
+        ],
+        "answer": 2,
+        "why": "3+5=8 leaves unused production capacity. 尚未用盡生產能力。",
+        "graph": "ppf",
+        "file": "ch2-05.html"
+      },
+      {
+        "objective": "Calculate the opportunity cost of one good in units of the other from a table or a PPF's slope. Interpret its magnitude and units.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-06",
+        "position": 6,
+        "title": "PPF opportunity cost / PPF 機會成本",
+        "en": "The opportunity cost of one extra X is Y sacrificed divided by additional X. With Y on the vertical axis, it is the magnitude of the PPF slope. Always state units.",
+        "zh": "每多一單位 X 的機會成本是放棄的 Y 除以增加的 X。Y 在縱軸時，這是斜率的絕對值；答案要寫商品單位。",
+        "example": "Example 例：From (2,10) to (4,4), ΔX=2 and Y lost=6. Cost of 1 X=3 Y. 每單位 X 放棄三單位 Y。",
+        "question": "Moving from (X=1,Y=12) to (X=3,Y=8), cost per extra X? 每單位 X 成本？",
+        "options": [
+          "4 Y",
+          "6 Y",
+          "0.5 Y",
+          "2 Y"
+        ],
+        "answer": 3,
+        "why": "Four Y are sacrificed for two X, so 4/2=2 Y per X.",
+        "graph": "ppf",
+        "file": "ch2-06.html"
+      },
+      {
+        "objective": "Explain a straight-line PPF with constant opportunity cost and a bowed-out PPF with increasing opportunity cost due to resources differing in suitability.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-07",
+        "position": 7,
+        "title": "PPF shape / PPF 形狀",
+        "en": "A straight PPF has constant opportunity cost. A bowed-out PPF becomes steeper as more X is produced because resources transferred into X become less suitable for it relative to Y.",
+        "zh": "直線 PPF 代表固定機會成本；向外彎曲的 PPF 隨 X 增加而變陡，因資源專長不同，後來轉入 X 的資源代價較高。",
+        "example": "Example 例：A specialist farmer switches first to farming; moving a skilled engineer into farming later may sacrifice much more engineering output. 依專長順序轉移資源，邊際代價會增加。",
+        "question": "A bowed-out PPF normally implies what as X production expands? X 生產增加時通常怎樣？",
+        "options": [
+          "Increasing cost in Y per X / 每 X 放棄更多 Y",
+          "Zero opportunity cost / 零成本",
+          "Constant cost everywhere / 各處成本固定",
+          "Unlimited output / 產量無限"
+        ],
+        "answer": 0,
+        "why": "Resources differ in suitability, producing increasing opportunity cost.",
+        "graph": "ppf",
+        "file": "ch2-07.html"
+      },
+      {
+        "objective": "Trace movements along the PPF versus shifts in the frontier. Show how a change in resources or good-specific technology affects production possibilities.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-08",
+        "position": 8,
+        "title": "Moving versus shifting a PPF / 沿線與移線",
+        "en": "A movement along the frontier reallocates existing resources. More resources or better technology can shift it outward. A technology improvement limited to X may raise its intercept while leaving the maximum Y unchanged.",
+        "zh": "沿 PPF 移動是既有資源重新分配；資源增加或技術進步令邊界外移。若只改善 X 技術，最大 Y 未必改變。",
+        "example": "Example 例：Better computer technology raises possible computer output at many allocations; choosing more computers on the old frontier is simply reallocation. 技術進步與重新分配不同。",
+        "question": "Only X technology improves. What may happen? 只有 X 技術改善？",
+        "options": [
+          "All interior points become infeasible / 內部均不可行",
+          "X intercept rises; Y intercept can stay / X 截距升，Y 可不變",
+          "Both intercepts must fall / 均下降",
+          "Only a movement on old PPF / 只沿舊線移動"
+        ],
+        "answer": 1,
+        "why": "A good-specific technology change expands its production possibilities.",
+        "graph": "ppfshift",
+        "file": "ch2-08.html"
+      },
+      {
+        "objective": "Construct or interpret an economy-wide PPF from workers with different productivities, allocating production in order of comparative advantage; recognize inefficient allocations within the frontier.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-09",
+        "position": 9,
+        "title": "Economy-wide PPF / 整體 PPF",
+        "en": "Allocate each good first to workers with the lowest opportunity cost. As different workers switch activity, the aggregate PPF can have kinks. Producing inside that boundary can reflect inefficient assignment, even if everyone is busy.",
+        "zh": "先安排機會成本最低的人做相應商品。不同工人依次轉換活動，整體邊界可有折點；人人忙碌仍可能因分工不當而無效率。",
+        "example": "Example 例：A makes 10 X or 20 Y; B makes 6 X or 6 Y. Starting from all Y, move B to X first: it sacrifices 1 Y per X, versus A's 2. 先轉 B 的代價較低。",
+        "question": "From all-Y production, who should switch to X first in the example? 誰應先轉做 X？",
+        "options": [
+          "The choice never matters / 永不影響",
+          "A / 甲",
+          "B / 乙",
+          "Both must switch together / 必須同時"
+        ],
+        "answer": 2,
+        "why": "B has the lower opportunity cost of X.",
+        "graph": "",
+        "file": "ch2-09.html"
+      },
+      {
+        "objective": "Compare the gains in one good from giving up a given quantity of another at different locations on a bowed frontier.",
+        "section": "Production possibilities frontier (PPF)",
+        "id": "2-10",
+        "position": 10,
+        "title": "Peace dividend on a bowed PPF / 彎曲 PPF 的轉產收益",
+        "en": "On a bowed PPF, the opportunity cost of the horizontal good is greater where much of it is already produced. Giving up the same amount of that good can therefore release different quantities of the other good at different locations.",
+        "zh": "向外彎曲邊界上，已大量生產橫軸商品時，其邊際機會成本較高。因此在不同起點放棄同量該商品，可換回不同數量另一商品。",
+        "example": "Example 例：With guns on X, shifting 1 unit away from guns near the high-guns end releases more butter than near the low-guns end. 在高軍備端減少一單位軍備可增加較多奶油。",
+        "question": "Same small cut in guns on a bowed PPF: where is the butter gain generally larger? 同量減軍備，哪處奶油收益較大？",
+        "options": [
+          "Low-guns end / 低軍備端",
+          "Always identical / 必相同",
+          "Always zero / 必為零",
+          "High-guns end / 高軍備端"
+        ],
+        "answer": 3,
+        "why": "The PPF is steeper at the high-guns end. 高軍備端斜率絕對值較大。",
+        "graph": "ppf",
+        "file": "ch2-10.html"
+      },
+      {
+        "objective": "Read axes, coordinates, intercepts and slope (`Δy/Δx`), including negative, zero and vertical slopes; distinguish a movement along a curve from a shift.",
+        "section": "Graphs and evidence",
+        "id": "2-11",
+        "position": 11,
+        "title": "Axes, slope and shifts / 座標、斜率與移動",
+        "en": "Read the axis labels before interpreting a graph. Slope is Δy/Δx; horizontal lines have zero slope and vertical slopes are undefined. A changed variable on an axis usually moves a point along a fixed relationship; another determinant can shift it.",
+        "zh": "先辨認橫縱軸及單位。斜率是縱向變化除橫向變化；水平為零，垂直斜率未定義。軸上的變數改變與整條關係移動須分清。",
+        "example": "Example 例：From (Q=2,P=8) to (Q=6,P=4), slope=(4−8)/(6−2)=−1 dollars per unit. 斜率為每單位數量負一元。",
+        "question": "From (x=1,y=7) to (x=4,y=1), slope? 斜率多少？",
+        "options": [
+          "−2",
+          "−0.5",
+          "+2",
+          "+6"
+        ],
+        "answer": 0,
+        "why": "Δy/Δx=−6/3=−2.",
+        "graph": "",
+        "file": "ch2-11.html"
+      },
+      {
+        "objective": "Explain why correlation alone does not establish causation; recognize omitted variables and reverse causality in examples.",
+        "section": "Graphs and evidence",
+        "id": "2-12",
+        "position": 12,
+        "title": "Correlation & causation / 相關與因果",
+        "en": "A correlation can reflect a causal effect, an omitted common cause or reverse causality. A graph alone generally cannot distinguish these explanations. Ask what variable is missing and which direction of influence is plausible.",
+        "zh": "相關可能來自因果、共同遺漏因素或反向因果。單看圖形通常無法分辨；要問是否漏了因素，或因果方向倒轉。",
+        "example": "Example 例：Cities with more crime hire more police. A positive police–crime correlation need not mean police cause crime. 高犯罪可引致增聘警察。",
+        "question": "More lighters correlate with cancer; smoking is unmeasured. Main concern? 打火機與癌症相關但未量度吸煙？",
+        "options": [
+          "A guaranteed random experiment / 隨機實驗",
+          "Omitted variable / 遺漏變數",
+          "Proof lighters cause cancer / 已證明因果",
+          "A normative statement / 規範陳述"
+        ],
+        "answer": 1,
+        "why": "Smoking can increase both lighter ownership and cancer risk.",
+        "graph": "",
+        "file": "ch2-12.html"
+      }
+    ],
+    "sources": "Ch 2 slides 2–23, 29–44; `Chapter 1&2.pdf`, Ch 2 questions 2–4 and 6."
+  },
+  {
+    "key": "3",
+    "title": "Chapter 3 — Interdependence and the Gains from Trade",
+    "items": [
+      {
+        "objective": "Determine absolute advantage from output per unit of input or inputs needed per unit of output.",
+        "section": "Absolute and comparative advantage",
+        "id": "3-01",
+        "position": 1,
+        "title": "Absolute advantage / 絕對優勢",
+        "en": "Compare output for the same input, or input needed for the same output. The producer making more per hour, or requiring fewer hours per unit, has absolute advantage in that good.",
+        "zh": "同投入比較產量，或同產量比較投入。每小時產量較高或每件所需時間較少的一方有絕對優勢。",
+        "example": "Example 例：A makes 8 shirts per hour; B makes 5. A has absolute advantage in shirts. 每小時八件高於五件。",
+        "question": "A needs 2 hours per table; B needs 3. Who has absolute advantage? 誰有絕對優勢？",
+        "options": [
+          "Both equally / 相同",
+          "Cannot compare / 無法比較",
+          "A",
+          "B"
+        ],
+        "answer": 2,
+        "why": "A uses fewer hours per table.",
+        "graph": "",
+        "file": "ch3-01.html"
+      },
+      {
+        "objective": "Calculate each producer's opportunity cost using either productivity data or time required. Express each answer in units of the other good, and use reciprocal costs consistently.",
+        "section": "Absolute and comparative advantage",
+        "id": "3-02",
+        "position": 2,
+        "title": "Opportunity-cost ratios / 機會成本比率",
+        "en": "For output-per-period data, cost of X in Y equals maximum Y divided by maximum X. For time-per-unit data, divide time for X by time for Y. The reverse opportunity cost is its reciprocal.",
+        "zh": "若資料是同期間產量，X 的成本為最大 Y 除最大 X；若資料是每件時間，則為製作 X 時間除製作 Y 時間。兩種商品的成本互為倒數。",
+        "example": "Example 例：One pizza takes 2 hours and one drink takes 1 hour. A pizza costs 2 drinks; one drink costs 0.5 pizza. 比率互為倒數。",
+        "question": "A can make 12 X or 4 Y daily. Opportunity cost of 1 Y? 每 Y 成本？",
+        "options": [
+          "4 X",
+          "1/3 X",
+          "2 X",
+          "3 X"
+        ],
+        "answer": 3,
+        "why": "One Y uses a quarter of the day and sacrifices 3 X.",
+        "graph": "",
+        "file": "ch3-02.html"
+      },
+      {
+        "objective": "Identify comparative advantage as the lower opportunity cost. Recognize that a producer can have absolute advantage in both goods and that trade can still create gains when opportunity costs differ.",
+        "section": "Absolute and comparative advantage",
+        "id": "3-03",
+        "position": 3,
+        "title": "Comparative advantage / 比較優勢",
+        "en": "Comparative advantage belongs to the lower opportunity-cost producer. Even a producer with absolute advantage in both goods can gain from trade with someone whose relative costs differ. With two goods, one producer cannot have a strictly lower relative cost in both.",
+        "zh": "比較優勢看較低機會成本。即使一方兩種商品產能均較高，只要相對成本不同仍可互利交易；兩商品成本互為倒數，不能同時在兩者均有嚴格比較優勢。",
+        "example": "Example 例：A makes 10 X or 20 Y; B makes 6 X or 6 Y. X costs A 2 Y and B 1 Y, so B has comparative advantage in X. B 的 X 相對成本較低。",
+        "question": "Who has comparative advantage in Y in this example? 誰在 Y 有比較優勢？",
+        "options": [
+          "A",
+          "B",
+          "Neither because A is faster at both / A 均較快所以沒有",
+          "Both strictly / 兩者均嚴格有"
+        ],
+        "answer": 0,
+        "why": "A gives up 0.5 X per Y; B gives up 1 X.",
+        "graph": "",
+        "file": "ch3-03.html"
+      },
+      {
+        "objective": "Determine each producer's efficient specialization and exports. Construct the combined PPF by assigning production to those with the lowest opportunity cost first.",
+        "section": "Absolute and comparative advantage",
+        "id": "3-04",
+        "position": 4,
+        "title": "Specialization & combined PPF / 分工與整體 PPF",
+        "en": "Assign extra production first to the lowest opportunity-cost producer. Each exports the good with comparative advantage. Combining their production possibilities can generate a kink where the first producer becomes fully specialized.",
+        "zh": "增加某商品時先用機會成本最低的生產者。各方出口有比較優勢的商品；當第一位已完全專門化，再轉第二位，整體 PPF 斜率改變。",
+        "example": "Example 例：A: 10 X or 20 Y; B: 6 X or 6 Y. Both all-Y gives (0,26); B switches fully to X gives (6,20); both all-X gives (16,0). 邊界依次經過三點。",
+        "question": "In this example, the efficient specialized output with A all-Y and B all-X is? 分工後產量？",
+        "options": [
+          "(X=3,Y=10)",
+          "(X=6,Y=20)",
+          "(X=10,Y=6)",
+          "(X=16,Y=26)"
+        ],
+        "answer": 1,
+        "why": "Add A's 20 Y and B's 6 X.",
+        "graph": "",
+        "file": "ch3-04.html"
+      },
+      {
+        "objective": "Find a mutually beneficial range for the price of a good in terms of the other good: it must lie strictly between the two producers' opportunity costs for both to gain from that exchange.",
+        "section": "Gains and terms of trade",
+        "id": "3-05",
+        "position": 5,
+        "title": "Terms of trade / 貿易條件",
+        "en": "For both to gain strictly, the exchange price of a good must lie between their opportunity costs, expressed in the same units. At an endpoint, one party is indifferent in the simple constant-cost model.",
+        "zh": "雙方嚴格得益的價格須介乎兩者機會成本，單位必須一致。在端點時，其中一方只是無差異。",
+        "example": "Example 例：X costs its exporter 1 Y and importer 2 Y. Trading 1 X for 1.5 Y benefits both. 出口者收多於成本，進口者付少於自製代價。",
+        "question": "Costs of 1 X are 2 Y and 5 Y. Which price gives strict gains to both? 哪個價格互利？",
+        "options": [
+          "1 Y",
+          "2 Y",
+          "3 Y",
+          "6 Y"
+        ],
+        "answer": 2,
+        "why": "3 lies strictly between 2 and 5.",
+        "graph": "",
+        "file": "ch3-05.html"
+      },
+      {
+        "objective": "Use production and trade quantities to calculate consumption after trade, and compare each person's consumption with their no-trade possibilities.",
+        "section": "Gains and terms of trade",
+        "id": "3-06",
+        "position": 6,
+        "title": "Consumption after trade / 交易後消費",
+        "en": "For each good, consumption equals production minus exports plus imports. Compare the resulting bundle with what the producer could make alone, or calculate the resources it would require without trade.",
+        "zh": "每種商品的消費等於產量減出口加進口。比較交易後組合與個人原本生產能力，可判斷是否獲益。",
+        "example": "Example 例：B produces 6 X and exports 2 X for 3 Y; B consumes (4 X,3 Y). Its own PPF X+Y=6 cannot produce this total of 7. B 可消費超出原邊界的組合。",
+        "question": "Produce 10 X, export 3 X and import 6 Y. Consumption? 生產十 X，出口三 X，進口六 Y？",
+        "options": [
+          "(10 X,6 Y)",
+          "(13 X,6 Y)",
+          "(3 X,6 Y)",
+          "(7 X,6 Y)"
+        ],
+        "answer": 3,
+        "why": "Subtract exports and add imports good by good.",
+        "graph": "",
+        "file": "ch3-06.html"
+      },
+      {
+        "objective": "Recognize that trade can allow consumption beyond an individual producer's own PPF; aggregate production still uses available resources and technology.",
+        "section": "Gains and terms of trade",
+        "id": "3-07",
+        "position": 7,
+        "title": "Production versus consumption / 生產與消費",
+        "en": "Trade changes consumption possibilities without automatically changing production technology. Individual consumption can lie outside an individual's PPF, while economy-wide production remains feasible and total consumption respects total available goods.",
+        "zh": "交易擴大個人可消費組合，但不會自動改變技術。個人消費可在自己的 PPF 外，整體生產仍受資源限制。",
+        "example": "Example 例：A trades part of its specialized output for B's good. A consumes a mix it cannot efficiently produce alone, while aggregate goods still equal production. 交換重新分配既有商品。",
+        "question": "A consumes outside its own PPF after trade. What follows? 交易後消費在個人 PPF 外，代表什麼？",
+        "options": [
+          "Trade expanded consumption opportunities / 貿易擴大消費選擇",
+          "Its technology must have improved / 技術必改善",
+          "World production is infeasible / 世界生產不可行",
+          "Scarcity disappeared / 稀缺消失"
+        ],
+        "answer": 0,
+        "why": "A consumption gain does not require a technological shift.",
+        "graph": "trade",
+        "file": "ch3-07.html"
+      },
+      {
+        "objective": "Analyze how a productivity change can alter comparative advantage and potential trade patterns. If both producers have identical opportunity-cost ratios, this simple two-good model has no comparative-advantage gain from specialization.",
+        "section": "Gains and terms of trade",
+        "id": "3-08",
+        "position": 8,
+        "title": "Productivity changes & trade / 生產力變化與貿易",
+        "en": "Recalculate opportunity costs after productivity changes; absolute output growth alone does not determine trade patterns. Equal opportunity-cost ratios remove comparative-advantage gains in the simple two-good model.",
+        "zh": "生產力改變後要重算相對成本；只看產量上升不足以判斷貿易方向。兩方機會成本相同時，簡化模型沒有比較優勢收益。",
+        "example": "Example 例：A makes 10 X or 20 Y; B improves from 6 X or 6 Y to 6 X or 12 Y. Both now give up 2 Y per X. B 的改善令相對成本一致。",
+        "question": "Both countries now sacrifice 3 Y per X. In the simple model, what happens to comparative-advantage gains? 相對成本相同時？",
+        "options": [
+          "Both export X necessarily / 必均出口 X",
+          "They disappear / 消失",
+          "They must double / 必加倍",
+          "Only the bigger country gains / 只大國得益"
+        ],
+        "answer": 1,
+        "why": "Equal relative costs leave no mutually advantageous price interval.",
+        "graph": "",
+        "file": "ch3-08.html"
+      }
+    ],
+    "sources": "Ch 3 slides 2–23; `Chapter 3.pdf`, questions 3, 4, 6–8."
+  },
+  {
+    "key": "4",
+    "title": "Chapter 4 — The Market Forces of Supply and Demand",
+    "items": [
+      {
+        "objective": "Define quantity demanded and quantity supplied; explain the laws of demand and supply, holding other influences constant.",
+        "section": "Demand and supply",
+        "id": "4-01",
+        "position": 1,
+        "title": "Demand and supply laws / 供需法則",
+        "en": "Quantity demanded is how much buyers are willing and able to buy at a given price; quantity supplied is what sellers are willing and able to sell. Holding other factors constant, higher price lowers Qd and raises Qs.",
+        "zh": "需求量是買家在某價願意及能夠購買的數量；供給量是賣家願意及能夠出售的數量。其他因素不變時，價格升令 Qd 降、Qs 升。",
+        "example": "Example 例：At $5 buyers want 20 units; at $6 they want 16. This is a downward relationship between price and quantity demanded. 價格上升令需求量下降。",
+        "question": "Holding other factors fixed, a higher price usually does what? 其他不變，價格上升？",
+        "options": [
+          "Shifts both curves right / 均右移",
+          "Makes both quantities zero / 均歸零",
+          "Lowers Qd and raises Qs / Qd 降、Qs 升",
+          "Raises Qd and lowers Qs / Qd 升、Qs 降"
+        ],
+        "answer": 2,
+        "why": "This combines the laws of demand and supply.",
+        "graph": "market",
+        "file": "ch4-01.html"
+      },
+      {
+        "objective": "Distinguish a change in a good's own price, which moves along its curve, from a change in another determinant, which shifts the curve.",
+        "section": "Demand and supply",
+        "id": "4-02",
+        "position": 2,
+        "title": "Movement or shift / 沿線或移線",
+        "en": "A good's own price moves the quantity along its existing demand or supply curve. A change in another determinant, such as income or input cost, shifts the relevant curve. State clearly which market is being studied.",
+        "zh": "本商品自身價格改變令數量沿現有曲線移動；收入、投入成本等其他因素改變才移動曲線。先確定分析哪一個市場。",
+        "example": "Example 例：Coffee gets cheaper: move along coffee demand. Tea gets more expensive: coffee demand may shift right because tea is a substitute. 咖啡和茶價格對咖啡市場影響不同。",
+        "question": "Coffee's own price falls. What happens to its demand curve, other things equal? 咖啡本身價格下降？",
+        "options": [
+          "Shift demand right / 需求右移",
+          "Shift demand left / 需求左移",
+          "Shift supply left / 供給左移",
+          "Move along the curve / 沿曲線移動"
+        ],
+        "answer": 3,
+        "why": "Own-price changes affect quantity demanded along a fixed curve.",
+        "graph": "demandshift",
+        "file": "ch4-02.html"
+      },
+      {
+        "objective": "Predict demand shifts caused by income (normal versus inferior goods), related goods (substitutes versus complements), tastes, expectations and the number of buyers.",
+        "section": "Demand and supply",
+        "id": "4-03",
+        "position": 3,
+        "title": "Demand determinants / 需求因素",
+        "en": "Income raises demand for normal goods and lowers demand for inferior goods. A substitute's higher price raises own demand; a complement's higher price lowers it. Tastes, expected future prices and buyer numbers can also shift demand.",
+        "zh": "收入增加令正常品需求增、劣等品需求減；替代品價格升令本品需求增，互補品價格升令本品需求減。喜好、預期及買家數也影響需求。",
+        "example": "Example 例：Gasoline and cars are complements. More expensive gasoline can reduce demand for cars, shifting car demand left. 汽油更貴會降低汽車需求。",
+        "question": "Tea substitutes for coffee. Tea price rises. Coffee demand? 茶價升時咖啡需求？",
+        "options": [
+          "Increases / 增加",
+          "Decreases / 減少",
+          "Only moves along coffee demand / 只沿線",
+          "Must stay fixed / 必不變"
+        ],
+        "answer": 0,
+        "why": "Some buyers switch from tea to coffee at each coffee price.",
+        "graph": "demandshift",
+        "file": "ch4-03.html"
+      },
+      {
+        "objective": "Predict supply shifts caused by input prices, production technology, expectations and the number of sellers.",
+        "section": "Demand and supply",
+        "id": "4-04",
+        "position": 4,
+        "title": "Supply determinants / 供給因素",
+        "en": "Lower input costs, improved production technology or more sellers usually increase supply. Higher input costs reduce it. Expectations can alter current supply when production or storage can be shifted over time.",
+        "zh": "投入成本下降、技術改善或賣家增加通常令供給增加；成本升令供給減少。若能調整生產或存貨，未來價格預期也影響當期供給。",
+        "example": "Example 例：Cheaper steel reduces the cost of making trucks; truck supply shifts right, lowering equilibrium price and raising quantity if demand is unchanged. 鋼價下降令卡車供給增加。",
+        "question": "A new machine lowers unit production cost. Which shift is expected? 新機器降低成本？",
+        "options": [
+          "Only movement along supply / 只沿供給線移動",
+          "Supply right / 供給右移",
+          "Supply left / 供給左移",
+          "Demand left / 需求左移"
+        ],
+        "answer": 1,
+        "why": "At each price, production becomes more attractive.",
+        "graph": "supplyshift",
+        "file": "ch4-04.html"
+      },
+      {
+        "objective": "Add individual quantities horizontally at each price to obtain market demand or market supply.",
+        "section": "Demand and supply",
+        "id": "4-05",
+        "position": 5,
+        "title": "Market aggregation / 市場曲線加總",
+        "en": "Add individual quantities at the same price. This is horizontal summation because quantity is on the horizontal axis. Do not add prices or include negative supplies or demands when an individual would choose zero.",
+        "zh": "在同一價格把各人的數量相加；因數量在橫軸，稱橫向加總。不可把價格相加；當個人選擇零時，不加入負數。",
+        "example": "Example 例：At P=$4, A demands 3 units and B demands 5. Market demand is 3+5=8 units. 同價下加總數量。",
+        "question": "At P=$10, three firms supply 2, 0 and 7 units. Market supply? 市場供給量？",
+        "options": [
+          "19",
+          "7",
+          "9",
+          "10"
+        ],
+        "answer": 2,
+        "why": "2+0+7=9 at that price.",
+        "graph": "",
+        "file": "ch4-05.html"
+      },
+      {
+        "objective": "Find equilibrium in a graph, schedule or equations by setting `Qd = Qs` and solving for price and quantity.",
+        "section": "Equilibrium and changing markets",
+        "id": "4-06",
+        "position": 6,
+        "title": "Solving equilibrium / 求均衡",
+        "en": "Equilibrium equates quantity demanded and supplied at one price. Solve the equations together, then substitute the price back into either equation and check both give the same quantity.",
+        "zh": "均衡要求同一價格下 Qd=Qs。聯立求 P，再代回兩式檢查數量一致。",
+        "example": "Example 例：Qs=2P and Qd=300−P. 2P=300−P gives P=100 and Q=200. 兩式皆得到 200。",
+        "question": "Qs=P, Qd=60−2P. Equilibrium P and Q? 均衡？",
+        "options": [
+          "P=30,Q=30",
+          "P=60,Q=60",
+          "P=10,Q=10",
+          "P=20,Q=20"
+        ],
+        "answer": 3,
+        "why": "3P=60, so P=20 and Q=20.",
+        "graph": "market",
+        "file": "ch4-06.html"
+      },
+      {
+        "objective": "Identify a shortage (`Qd > Qs`) or surplus (`Qs > Qd`) at a stated price and explain the usual pressure on price in an unrestricted market.",
+        "section": "Equilibrium and changing markets",
+        "id": "4-07",
+        "position": 7,
+        "title": "Shortage and surplus / 短缺與過剩",
+        "en": "Below equilibrium, Qd exceeds Qs and buyers compete for scarce supply, creating upward price pressure. Above equilibrium, Qs exceeds Qd and unsold stock creates downward pressure. A shortage or surplus is a difference between desired quantities.",
+        "zh": "低於均衡價時 Qd>Qs，有升價壓力；高於均衡價時 Qs>Qd，有降價壓力。短缺或過剩是意欲買賣數量的差額。",
+        "example": "Example 例：At P=8, Qd=30 and Qs=18. Shortage=12; unrestricted price tends upward. 短缺十二單位。",
+        "question": "At a given price Qs=50, Qd=35. What pressure occurs? 供五十、需三十五？",
+        "options": [
+          "Surplus 15, price down / 過剩十五、價降",
+          "Shortage 15, price up / 短缺十五、價升",
+          "Surplus 85, price up / 過剩八十五、價升",
+          "Equilibrium / 均衡"
+        ],
+        "answer": 0,
+        "why": "Qs−Qd=15 units are unsold at that price.",
+        "graph": "shortage",
+        "file": "ch4-07.html"
+      },
+      {
+        "objective": "Work out the direction of equilibrium price and quantity after one curve shifts. For simultaneous shifts, identify which outcome is definite and which depends on the relative shift sizes.",
+        "section": "Equilibrium and changing markets",
+        "id": "4-08",
+        "position": 8,
+        "title": "One or two shifts / 單一及雙重移動",
+        "en": "D rising raises both equilibrium P and Q; S rising lowers P and raises Q. Reverse shifts reverse those signs. If both curves move, combine the effects: an outcome is definite only when both shifts push it in the same direction.",
+        "zh": "D 增加令 P、Q 升；S 增加令 P 降、Q 升，反向移動結果相反。雙線移動時，只有兩個效果同向的變數能直接確定。",
+        "example": "Example 例：D and S both rise. Each raises Q, so Q rises; their effects on P oppose, so P is ambiguous. 需求供給同增，量升而價未定。",
+        "question": "D rises while S falls. What is definite? 需求增、供給減，何者確定？",
+        "options": [
+          "P falls; Q rises / 價跌量升",
+          "P rises; Q ambiguous / 價升、量未定",
+          "Q rises; P ambiguous / 量升、價未定",
+          "P and Q both fall / 均下降"
+        ],
+        "answer": 1,
+        "why": "Both changes push price up; quantity effects oppose.",
+        "graph": "demandshift",
+        "file": "ch4-08.html"
+      },
+      {
+        "objective": "Follow a chain across markets: for example, an input-price change affects a final good, which affects demand for a complement or substitute.",
+        "section": "Equilibrium and changing markets",
+        "id": "4-09",
+        "position": 9,
+        "title": "Linked markets / 跨市場傳導",
+        "en": "Identify the first market's shock and equilibrium response, then use related-good or input relationships to shift another market's curve. Keep movements along a curve separate from shifts in the next market.",
+        "zh": "先分析第一個市場的衝擊，再利用投入品、替代品或互補品關係傳到下一市場。每一步都重新辨認移動哪條線。",
+        "example": "Example 例：Cheaper TV production raises TV supply, lowers TV price and increases demand for complementary streaming services. 電視便宜令串流服務需求增加。",
+        "question": "Fuel costs rise for airlines; air travel and hotels are complements. Hotel demand likely? 航空燃料更貴，機票與酒店互補，酒店需求？",
+        "options": [
+          "Hotel supply must rise / 酒店供給必升",
+          "Hotel demand becomes vertical / 需求變垂直",
+          "Falls / 下降",
+          "Rises / 上升"
+        ],
+        "answer": 2,
+        "why": "Costlier flights reduce travel and associated hotel demand, holding other factors fixed.",
+        "graph": "",
+        "file": "ch4-09.html"
+      },
+      {
+        "objective": "Work backward from observed changes in price and quantity to determine which proposed demand or supply shift could explain them; identify when more than one explanation is possible.",
+        "section": "Equilibrium and changing markets",
+        "id": "4-10",
+        "position": 10,
+        "title": "Diagnosing observed changes / 從結果推斷衝擊",
+        "en": "A higher P with higher Q is consistent with a demand increase alone; higher P with lower Q fits a supply decrease alone. These patterns identify possible single-shift explanations, but simultaneous shifts may also generate them.",
+        "zh": "價量同升可由需求增加解釋；價升量跌可由供給減少解釋。但多個因素同時改變也可有相同結果，不能把單線解釋當成唯一原因。",
+        "example": "Example 例：Truck price rises while sales fall. More expensive steel shifting supply left fits this pattern. 鋼材成本上升可解釋價升量跌。",
+        "question": "Price falls and quantity rises. Which single shift fits? 價跌量升符合哪個單一移動？",
+        "options": [
+          "Supply decreases / 供給減少",
+          "Demand increases / 需求增加",
+          "Demand decreases / 需求減少",
+          "Supply increases / 供給增加"
+        ],
+        "answer": 3,
+        "why": "An outward supply shift moves equilibrium down the demand curve.",
+        "graph": "supplyshift",
+        "file": "ch4-10.html"
+      }
+    ],
+    "sources": "Ch 4 slides; `Chapter 4.pdf`, questions 3, 4, 7, 9–10."
+  },
+  {
+    "key": "5",
+    "title": "Chapter 5 — Elasticity and Its Application",
+    "items": [
+      {
+        "objective": "Calculate price elasticity of demand as the absolute percentage change in quantity demanded divided by the percentage change in price. When comparing two points, use the midpoint formula: `|[(Q2−Q1)/((Q1+Q2)/2)] / [(P2−P1)/((P1+P2)/2)]|`.",
+        "section": "Demand elasticity",
+        "id": "5-01",
+        "position": 1,
+        "title": "Midpoint elasticity / 中點法彈性",
+        "en": "Price elasticity of demand is the absolute percentage quantity change divided by percentage price change. Use the average of the two endpoints as each denominator so reversing the direction gives the same result.",
+        "zh": "需求價格彈性用數量百分比變化除價格百分比變化，再取絕對值。中點法以兩點平均數為分母，避免方向影響結果。",
+        "example": "Example 例：P:10→12, Q:100→80. Ed=(20/90)/(2/11)=11/9≈1.22. 需求有彈性。",
+        "question": "P:4→6, Q:12→8. Midpoint Ed? 中點法彈性？",
+        "options": [
+          "1",
+          "2",
+          "4",
+          "0.5"
+        ],
+        "answer": 0,
+        "why": "(4/10)/(2/5)=1.",
+        "graph": "",
+        "file": "ch5-01.html"
+      },
+      {
+        "objective": "Classify demand as elastic (`> 1`), inelastic (`< 1`), unit elastic (`= 1`), perfectly inelastic (`= 0`) or perfectly elastic. Identify horizontal and vertical extreme cases.",
+        "section": "Demand elasticity",
+        "id": "5-02",
+        "position": 2,
+        "title": "Classifying elasticity / 彈性分類",
+        "en": "Ed>1 is elastic, Ed<1 inelastic, and Ed=1 unit elastic. Vertical demand is perfectly inelastic with Ed=0. Horizontal demand is perfectly elastic in the idealized limit. Classify using percentage responses, not visual angle alone.",
+        "zh": "Ed 大於一有彈性，小於一缺乏彈性，等於一為單位彈性。垂直需求完全無彈性；水平需求完全有彈性。圖線斜度還受單位及軸比例影響。",
+        "example": "Example 例：A 10% price rise reduces Q by 3%, so Ed=0.3 and demand is inelastic. 價升一成、量跌百分之三。",
+        "question": "A perfectly vertical demand curve has which elasticity? 垂直需求彈性？",
+        "options": [
+          "Infinity / 無限大",
+          "0",
+          "1",
+          "2"
+        ],
+        "answer": 1,
+        "why": "Quantity does not respond to price. 數量不隨價格變。",
+        "graph": "extremes",
+        "file": "ch5-02.html"
+      },
+      {
+        "objective": "Explain how availability of substitutes, necessity versus luxury, market definition and time horizon influence elasticity.",
+        "section": "Demand elasticity",
+        "id": "5-03",
+        "position": 3,
+        "title": "Determinants of elasticity / 彈性決定因素",
+        "en": "Close substitutes make switching easier; narrowly defined goods tend to have more substitutes. Necessities tend to be less elastic than luxuries, and longer adjustment time generally increases responsiveness.",
+        "zh": "替代品多便容易轉換；商品定義較窄通常有更多替代品。必需品通常較缺乏彈性，時間較長通常更能調整。",
+        "example": "Example 例：Demand for one brand of bottled water is likely more elastic than demand for drinking water overall. 單一品牌比整體食水更易被替代。",
+        "question": "Which demand is usually more elastic, other things equal? 一般何者更有彈性？",
+        "options": [
+          "Essential emergency care / 必需急救",
+          "A good with no substitutes / 無替代品商品",
+          "One coffee brand / 單一咖啡品牌",
+          "All beverages / 所有飲料"
+        ],
+        "answer": 2,
+        "why": "A narrowly defined brand has many close alternatives.",
+        "graph": "",
+        "file": "ch5-03.html"
+      },
+      {
+        "objective": "Distinguish elasticity from slope. On a linear demand curve, elasticity changes along the curve; a constant slope does not imply constant elasticity.",
+        "section": "Demand elasticity",
+        "id": "5-04",
+        "position": 4,
+        "title": "Elasticity versus slope / 彈性與斜率",
+        "en": "Slope uses absolute changes in P and Q; elasticity uses percentage changes. On linear demand Q=a−bP, Ed=bP/Q. It is higher near the high-price, low-quantity end even though slope is constant.",
+        "zh": "斜率用單位變化，彈性用百分比。線性需求 Q=a−bP 的 Ed=bP/Q；高價低量端彈性大，斜率仍相同。",
+        "example": "Example 例：For Q=100−P, Ed at P=80,Q=20 is 4; at P=20,Q=80 it is 0.25. 同線不同點的彈性不同。",
+        "question": "For Q=100−P at P=50,Q=50, Ed is? 彈性多少？",
+        "options": [
+          "2",
+          "50",
+          "0.5",
+          "1"
+        ],
+        "answer": 3,
+        "why": "Ed=1×50/50=1.",
+        "graph": "",
+        "file": "ch5-04.html"
+      },
+      {
+        "objective": "Relate price changes to total revenue or expenditure `P × Q`: a price increase raises revenue when demand is inelastic and lowers it when demand is elastic; the reverse applies to a price decrease, holding the demand curve fixed.",
+        "section": "Demand elasticity",
+        "id": "5-05",
+        "position": 5,
+        "title": "Revenue test / 總收入判斷",
+        "en": "Along a fixed demand curve, a price rise raises total revenue when demand is inelastic and lowers it when demand is elastic. Reverse the direction for a price cut. For large changes crossing elasticity regions, calculate P×Q directly.",
+        "zh": "沿固定需求線，缺乏彈性時價升令收入增；有彈性時價升令收入減。減價時反向；大幅變動跨越不同彈性區域時直接算 P×Q。",
+        "example": "Example 例：P rises from 5 to 6, Q falls from 5 to 4.5. Revenue rises from 25 to 27; the quantity response is relatively small. 價升幅度勝過量跌。",
+        "question": "Along an elastic demand segment, a small price cut causes TR to do what? 有彈性需求區減價？",
+        "options": [
+          "Rise / 上升",
+          "Fall / 下降",
+          "Always stay fixed / 必不變",
+          "Become negative / 變負"
+        ],
+        "answer": 0,
+        "why": "The percentage quantity gain exceeds the percentage price reduction.",
+        "graph": "inelastic",
+        "file": "ch5-05.html"
+      },
+      {
+        "objective": "Interpret zero and unit elasticity in verbal situations, including fixed quantity purchased and fixed expenditure.",
+        "section": "Demand elasticity",
+        "id": "5-06",
+        "position": 6,
+        "title": "Fixed quantity or spending / 固定數量或支出",
+        "en": "A buyer who always buys the same quantity has zero price elasticity. A buyer who always spends the same amount has Q=k/P, giving unit elasticity. These are statements about behavior across prices.",
+        "zh": "每次購買固定數量代表零彈性；每次固定支出時 Q=k/P，代表單位彈性。須看價格改變時的購買規則。",
+        "example": "Example 例：“Five liters regardless of price” means Ed=0. “$20 of fuel regardless of price” means Ed=1. 固定公升與固定金額不同。",
+        "question": "A buyer always buys $30 of rice. Price elasticity? 每次買三十元米？",
+        "options": [
+          "0.5",
+          "1",
+          "Infinity / 無限大",
+          "0"
+        ],
+        "answer": 1,
+        "why": "Fixed expenditure means P×Q is constant, so demand is unit elastic.",
+        "graph": "",
+        "file": "ch5-06.html"
+      },
+      {
+        "objective": "Calculate and interpret income elasticity and cross-price elasticity; use their signs to classify normal/inferior goods and substitutes/complements.",
+        "section": "Demand elasticity",
+        "id": "5-07",
+        "position": 7,
+        "title": "Income & cross-price elasticity / 收入與交叉彈性",
+        "en": "Income elasticity is %ΔQd/%Δincome: positive for normal goods, negative for inferior goods. Cross-price elasticity is %ΔQd of A/%ΔP of B: positive for substitutes, negative for complements.",
+        "zh": "收入彈性正值屬正常品，負值屬劣等品。交叉價格彈性正值屬替代品，負值屬互補品；計算時保留正負號。",
+        "example": "Example 例：Tea price rises 10%, coffee demand rises 5%. Cross elasticity=+0.5, suggesting substitutes. 咖啡需求隨茶價同向。",
+        "question": "Income rises 10%, demand falls 5%. Income elasticity and classification? 收入增、需求減？",
+        "options": [
+          "−2, substitute / 替代品",
+          "+2, complement / 互補品",
+          "−0.5, inferior / 劣等品",
+          "+0.5, normal / 正常品"
+        ],
+        "answer": 2,
+        "why": "−5%/10%=−0.5; demand falls with income.",
+        "graph": "",
+        "file": "ch5-07.html"
+      },
+      {
+        "objective": "Calculate price elasticity of supply using percentage changes and explain why supply is often more elastic over a longer horizon.",
+        "section": "Supply elasticity and applications",
+        "id": "5-08",
+        "position": 8,
+        "title": "Supply elasticity / 供給彈性",
+        "en": "Supply elasticity is the percentage quantity supplied response divided by the percentage price change. A longer horizon often permits new capacity, entry or changed inputs, making supply more elastic; this is a tendency, not a universal law.",
+        "zh": "供給彈性用供給量百分比反應除價格百分比變化。長期可改變設備、投入或企業數目，通常更有彈性。",
+        "example": "Example 例：P rises 10%, Qs rises 20%; Es=2. Firms may respond more over a year than over a day. 供給反應大於價格變化。",
+        "question": "A 5% price rise increases supply by 15%. Es? 供給彈性？",
+        "options": [
+          "10",
+          "1/3",
+          "1",
+          "3"
+        ],
+        "answer": 3,
+        "why": "15%/5%=3.",
+        "graph": "",
+        "file": "ch5-08.html"
+      },
+      {
+        "objective": "Apply elasticity to shifts: explain how the size of a price or quantity response depends on the elasticity of the curve being moved along.",
+        "section": "Supply elasticity and applications",
+        "id": "5-09",
+        "position": 9,
+        "title": "Elasticity and shock size / 彈性與衝擊反應",
+        "en": "After a curve shifts, the elasticity of the other curve shapes the price and quantity adjustment. A less responsive demand curve generally produces a larger price change and smaller quantity change for a comparable supply shock.",
+        "zh": "一條曲線移動時，另一條線的彈性影響新均衡。相同供給衝擊下，需求較缺乏彈性通常令價格變較多、數量變較少。",
+        "example": "Example 例：A supply cut in essential fuel can cause a sharp price rise in the short run when demand barely responds. 短期必需燃料難以減用。",
+        "question": "Same supply reduction, which demand gives the larger price rise? 同樣供給減少，哪種需求令價升較多？",
+        "options": [
+          "More inelastic / 較缺乏彈性",
+          "More elastic / 較有彈性",
+          "Perfectly horizontal / 完全水平",
+          "Elasticity cannot matter / 彈性無影響"
+        ],
+        "answer": 0,
+        "why": "Less quantity adjustment requires more price adjustment.",
+        "graph": "",
+        "file": "ch5-09.html"
+      },
+      {
+        "objective": "Analyze the revenue effects of a bumper crop versus a local crop failure, and supply restrictions in oil or illegal drugs; trace effects into related markets when needed.",
+        "section": "Supply elasticity and applications",
+        "id": "5-10",
+        "position": 10,
+        "title": "Crop and restriction applications / 農作物與限制供給",
+        "en": "A broad supply increase can lower revenue when market demand is inelastic. A local producer faces more substitutes for its output, so a local crop loss can reduce its revenue. Restricting oil or drug supply can raise spending when demand is inelastic; linked complements may also be affected.",
+        "zh": "整體豐收可能因需求缺乏彈性而令總收入減少；局部農民面對其他地區替代品，失收可能降低自身收入。限制油或毒品供給可令價格及支出上升。",
+        "example": "Example 例：Worldwide grain supply expands; price falls sharply and purchases rise slightly, reducing total farm revenue. 全球穀物豐收可能令農民總收入下降。",
+        "question": "Supply of an inelastically demanded drug falls. User spending may do what? 毒品供給減、需求缺乏彈性，支出可能？",
+        "options": [
+          "Equal zero / 等於零",
+          "Rise / 上升",
+          "Always fall / 必下降",
+          "Stay fixed by definition / 定義上固定"
+        ],
+        "answer": 1,
+        "why": "The price increase can outweigh the quantity reduction along demand.",
+        "graph": "inelastic",
+        "file": "ch5-10.html"
+      },
+      {
+        "objective": "Evaluate proposed explanations for a price change with unchanged quantity, including perfectly inelastic curves and simultaneous shifts.",
+        "section": "Supply elasticity and applications",
+        "id": "5-11",
+        "position": 11,
+        "title": "Price changes with fixed quantity / 價變但量不變",
+        "en": "A demand increase with vertical supply can raise price without changing quantity. A supply decrease with vertical demand can do the same. Opposing quantity effects from simultaneous shifts are another possibility.",
+        "zh": "需求增配合垂直供給可令價升量不變；供給減配合垂直需求也可。雙線移動的數量效果互相抵消也是可能原因。",
+        "example": "Example 例：A venue has a fixed 1,000 seats. Increased demand can raise ticket price while seats sold remain 1,000. 座位供應固定。",
+        "question": "P rises while Q is unchanged. Which explanation is possible? 價升量不變何解釋可能？",
+        "options": [
+          "Demand falls with upward supply / 需求跌、供給向上",
+          "Supply rises with downward demand / 供給增、需求向下",
+          "Demand rises with vertical supply / 需求增、供給垂直",
+          "Supply rises with horizontal demand / 供給增、需求水平"
+        ],
+        "answer": 2,
+        "why": "Vertical supply fixes quantity despite a demand shift.",
+        "graph": "extremes",
+        "file": "ch5-11.html"
+      }
+    ],
+    "sources": "Ch 5 slides; `Chapter 5.pdf`, questions 4–6, 9 and 12."
+  },
+  {
+    "key": "6",
+    "title": "Chapter 6 — Supply, Demand, and Government Policies",
+    "items": [
+      {
+        "objective": "Identify a binding price ceiling below equilibrium and a binding price floor above equilibrium; recognize when a control has no effect and why.",
+        "section": "Price ceilings and floors",
+        "id": "6-01",
+        "position": 1,
+        "title": "Binding controls / 有約束力的管制",
+        "en": "A ceiling is a legal maximum and binds below the free-market equilibrium price. A floor is a legal minimum and binds above equilibrium. A control on the other side of equilibrium leaves the equilibrium available.",
+        "zh": "價格上限在均衡價以下才具約束力；價格下限在均衡價以上才具約束力。若原均衡仍合法，市場可留在原均衡。",
+        "example": "Example 例：P*=100. A ceiling of 90 binds; a floor of 90 does not. 同樣九十元，上限與下限效果不同。",
+        "question": "Equilibrium price is $20. Which control binds? 均衡價二十元，何者具約束力？",
+        "options": [
+          "Floor $20 with no excess / 下限二十且無過剩",
+          "Ceiling $25 / 上限二十五",
+          "Floor $15 / 下限十五",
+          "Ceiling $15 / 上限十五"
+        ],
+        "answer": 3,
+        "why": "A $15 maximum prevents the market reaching its $20 equilibrium.",
+        "graph": "ceiling",
+        "file": "ch6-01.html"
+      },
+      {
+        "objective": "Calculate quantity demanded, quantity supplied, actual traded quantity, and the resulting shortage or surplus at a controlled price. With ordinary voluntary trading and no government purchase, the short side limits the amount traded.",
+        "section": "Price ceilings and floors",
+        "id": "6-02",
+        "position": 2,
+        "title": "Traded quantity under controls / 管制下交易量",
+        "en": "Calculate Qd and Qs separately at the controlled price. A shortage is Qd−Qs; a surplus is Qs−Qd. With voluntary trade and no government buying or extra supply, actual trade is limited by the smaller quantity.",
+        "zh": "把管制價分別代入供需，短缺為 Qd−Qs，過剩為 Qs−Qd。自願交易且政府不額外買賣時，實際交易量取較小數。",
+        "example": "Example 例：At a floor, Qd=40 and Qs=70. Surplus=30, but only 40 units are sold. 想出售七十不代表售出七十。",
+        "question": "At a ceiling Qd=90 and Qs=60. Quantity sold and shortage? 上限下需九十、供六十？",
+        "options": [
+          "Sold 60, shortage 30 / 售六十、缺三十",
+          "Sold 90, shortage 30 / 售九十、缺三十",
+          "Sold 30, shortage 60 / 售三十、缺六十",
+          "Sold 150, shortage 0 / 售一百五十、無缺"
+        ],
+        "answer": 0,
+        "why": "The supply side limits trade to 60 units.",
+        "graph": "ceiling",
+        "file": "ch6-02.html"
+      },
+      {
+        "objective": "Explain non-price rationing, queues and potential quality changes under a binding ceiling; explain unsold supply under a binding floor.",
+        "section": "Price ceilings and floors",
+        "id": "6-03",
+        "position": 3,
+        "title": "Rationing and quality / 配給與品質",
+        "en": "A binding ceiling creates excess demand, so price no longer alone selects buyers: queues, waiting lists or favoritism may emerge. Sellers can also reduce quality. A binding floor leaves some willing sellers unable to sell.",
+        "zh": "上限造成需求過多，可能靠排隊、名單或偏好分配；賣家也可能減少維修或品質。下限造成過剩，部分賣家無法出售。",
+        "example": "Example 例：Under rent control, apartments have waiting lists and landlords may reduce maintenance when rent cannot reflect quality. 租金限制可改變維修誘因。",
+        "question": "A binding rent ceiling may produce which result? 有約束力的租金上限可能？",
+        "options": [
+          "Automatic efficient rationing / 自動有效率配給",
+          "Waiting lists and lower maintenance / 等候名單、維修減少",
+          "Guaranteed housing for every applicant / 人人必有屋",
+          "Excess vacant supply from the ceiling alone / 單靠上限造成過剩"
+        ],
+        "answer": 1,
+        "why": "The shortage requires non-price allocation; quality incentives can weaken.",
+        "graph": "ceiling",
+        "file": "ch6-03.html"
+      },
+      {
+        "objective": "Apply a minimum wage to the labor market: workers supply labor, firms demand labor, employment is labor demanded at a binding wage floor, and unemployment is labor supplied minus labor demanded.",
+        "section": "Price ceilings and floors",
+        "id": "6-04",
+        "position": 4,
+        "title": "Minimum wage and employment / 最低工資與就業",
+        "en": "Workers supply labor and firms demand it. At a binding minimum wage, employment equals labor demanded and unemployment in this simple diagram equals labor supplied minus labor demanded.",
+        "zh": "工人供應勞工，企業需求勞工。最低工資高於均衡時，就業取企業需求量，圖中的失業為勞工供給減需求。",
+        "example": "Example 例：At the wage floor, 120 workers want jobs and firms hire 80. Employment=80 and unemployment=40. 想工作的人不等於成功就業者。",
+        "question": "At the minimum wage Ls=100 and Ld=70. Employment? 就業人數？",
+        "options": [
+          "170",
+          "30",
+          "70",
+          "100"
+        ],
+        "answer": 2,
+        "why": "Firms hire 70; the remaining 30 willing workers lack jobs in this model.",
+        "graph": "floor",
+        "file": "ch6-04.html"
+      },
+      {
+        "objective": "Calculate total wage payments as wage times employment. Use the elasticity of labor demand to assess how a wage increase affects total payments; use both labor supply and demand responses to assess unemployment.",
+        "section": "Price ceilings and floors",
+        "id": "6-05",
+        "position": 5,
+        "title": "Wage bill and elasticities / 工資總額與彈性",
+        "en": "Total wage payments equal wage times employment. Along inelastic labor demand, a wage rise reduces employment proportionately less, raising the wage bill. Unemployment changes depend on both labor demand and labor supply responses.",
+        "zh": "總工資為工資乘就業。勞工需求缺乏彈性時，工資升幅超過就業跌幅，總支付上升；失業變化則同時涉及供給與需求。",
+        "example": "Example 例：Wage 10→12 and employment 100→95: total payments 1,000→1,140. 勞工總收入上升，但五人失去工作。",
+        "question": "A small wage increase on elastic labor demand does what to total wage payments? 有彈性勞工需求下小幅加薪？",
+        "options": [
+          "Always leaves them unchanged / 必不變",
+          "Equals unemployment / 等於失業",
+          "Raises them / 增加",
+          "Lowers them / 減少"
+        ],
+        "answer": 3,
+        "why": "The employment percentage decline exceeds the wage percentage rise.",
+        "graph": "",
+        "file": "ch6-05.html"
+      },
+      {
+        "objective": "Compare short- and long-run shortages when supply and demand become more elastic, as in rent control.",
+        "section": "Price ceilings and floors",
+        "id": "6-06",
+        "position": 6,
+        "title": "Short-run versus long-run shortage / 短長期短缺",
+        "en": "At a fixed rent ceiling, more elastic long-run supply can reduce housing offered more, while more elastic demand raises desired quantity more. Together these can enlarge the shortage relative to the short run.",
+        "zh": "租金上限固定時，長期供給更能收縮，需求更能增加，短缺因而可能比短期更大。比較時要固定其他條件及原均衡。",
+        "example": "Example 例：Short run Qd=110, Qs=90 gives shortage 20; long run Qd=130, Qs=70 gives shortage 60. 長期調整令短缺擴大。",
+        "question": "With the same binding ceiling and more responsive supply and demand, shortage generally? 同上限、供需更有彈性？",
+        "options": [
+          "Grows / 增大",
+          "Must vanish / 必消失",
+          "Becomes negative always / 必變負",
+          "Equals tax revenue / 等於稅收"
+        ],
+        "answer": 0,
+        "why": "Both responses can widen Qd−Qs.",
+        "graph": "ceiling",
+        "file": "ch6-06.html"
+      },
+      {
+        "objective": "Assess consumer and producer surplus under controls carefully: the identity of buyers or sellers who actually trade matters. Without an efficient-rationing assumption, the exact welfare areas may not be determined from supply and demand curves alone.",
+        "section": "Price ceilings and floors",
+        "id": "6-07",
+        "position": 7,
+        "title": "Rationing and surplus / 配給與剩餘",
+        "en": "Surplus depends on who receives or supplies the traded units. The usual maximum-surplus areas under a control assume high-value buyers receive goods and low-cost sellers supply them. Random or discriminatory allocation can reduce surplus further.",
+        "zh": "管制後的剩餘取決於誰成功買賣。常見圖形面積假設商品到最高價值買家、由最低成本賣家供應；隨機或偏好配給可再減少剩餘。",
+        "example": "Example 例：One unit costs $2. At a $3 ceiling, allocating it to a buyer valuing it at $10 gives total surplus $8; to a $5 buyer gives $3. 同交易量，配給不同令剩餘不同。",
+        "question": "Under a shortage, can exact CS always be calculated without knowing who buys? 不知誰買到時可必定算出 CS？",
+        "options": [
+          "Yes, price alone fixes CS / 價格已足夠",
+          "No, allocation matters / 配給重要",
+          "Yes, Qd is quantity sold / Qd 就是售量",
+          "No, because CS is always zero / CS 必零"
+        ],
+        "answer": 1,
+        "why": "Buyer valuations among actual recipients determine CS.",
+        "graph": "welfare",
+        "file": "ch6-07.html"
+      },
+      {
+        "objective": "Draw or interpret a tax on sellers as an upward supply shift, and a tax on buyers as a downward demand shift, by the tax per unit.",
+        "section": "Unit taxes and incidence",
+        "id": "6-08",
+        "position": 8,
+        "title": "Drawing a unit tax / 畫單位稅",
+        "en": "A tax on sellers shifts supply vertically up by t in buyer-price terms. A tax on buyers shifts demand vertically down by t in seller-price terms. Both create the same gap Pb−Ps=t under the standard model.",
+        "zh": "向賣方收稅，可在買方價格座標把供給上移 t；向買方收稅，可在賣方價格座標把需求下移 t。結果均是 Pb 比 Ps 高 t。",
+        "example": "Example 例：If sellers need net $10 to supply a quantity, a $3 tax means buyers must pay $13 for that quantity. 淨收十元需要買方付十三元。",
+        "question": "A $4 unit tax on sellers shifts supply by how much vertically? 賣方每件四元稅？",
+        "options": [
+          "Right 4 units / 右移四件",
+          "No wedge / 沒有稅楔",
+          "Up $4 / 上移四元",
+          "Down $4 / 下移四元"
+        ],
+        "answer": 2,
+        "why": "At each quantity, the buyer price must cover the old supply price plus tax.",
+        "graph": "tax",
+        "file": "ch6-08.html"
+      },
+      {
+        "objective": "Solve for the buyer's price `Pb`, seller's net price `Ps`, and quantity using `Pb − Ps = tax`, `Qd(Pb) = Qs(Ps)`.",
+        "section": "Unit taxes and incidence",
+        "id": "6-09",
+        "position": 9,
+        "title": "Tax equilibrium / 稅後均衡",
+        "en": "Use separate price variables: demand depends on Pb and supply on Ps. Solve Qd(Pb)=Qs(Ps) together with Pb−Ps=t. Substituting a single price into both original curves without the wedge loses the tax.",
+        "zh": "需求用買方價 Pb，供給用賣方淨價 Ps，再聯立 Pb−Ps=t。不可在原供需兩式都用同一價格而漏掉稅楔。",
+        "example": "Example 例：Qs=2Ps, Qd=300−Pb, t=30. Pb=Ps+30 gives 2Ps=270−Ps; Ps=90, Pb=120, Q=180.",
+        "question": "Qs=Ps, Qd=100−Pb and t=20. Seller price? 賣方淨價？",
+        "options": [
+          "50",
+          "60",
+          "20",
+          "40"
+        ],
+        "answer": 3,
+        "why": "Ps=100−(Ps+20), so Ps=40; Pb=60 and Q=40.",
+        "graph": "tax",
+        "file": "ch6-09.html"
+      },
+      {
+        "objective": "Calculate the buyer's per-unit burden `Pb − P0` and seller's per-unit burden `P0 − Ps`, where `P0` is the original price; the burdens sum to the tax.",
+        "section": "Unit taxes and incidence",
+        "id": "6-10",
+        "position": 10,
+        "title": "Per-unit tax burden / 每單位稅負",
+        "en": "Compare each post-tax price with the original equilibrium P0. Buyers bear Pb−P0, sellers bear P0−Ps, and these add to t. Total burdens across traded units multiply these amounts by the post-tax quantity.",
+        "zh": "買方每件負擔 Pb−P0，賣方每件負擔 P0−Ps，合計為 t。要算交易單位上的總負擔，再乘稅後數量。",
+        "example": "Example 例：P0=100, Pb=120, Ps=90. Buyers bear 20 and sellers 10; total unit tax=30. 買方負擔三分之二。",
+        "question": "P0=50, Pb=56, Ps=46. Seller's burden per unit? 賣方每件負擔？",
+        "options": [
+          "4",
+          "6",
+          "10",
+          "46"
+        ],
+        "answer": 0,
+        "why": "50−46=4. The remaining 6 is borne by buyers.",
+        "graph": "tax",
+        "file": "ch6-10.html"
+      },
+      {
+        "objective": "Explain why economic incidence depends on relative elasticities rather than the side legally required to remit the tax: the less elastic side generally bears more.",
+        "section": "Unit taxes and incidence",
+        "id": "6-11",
+        "position": 11,
+        "title": "Elasticity and incidence / 彈性與稅負",
+        "en": "The relatively less elastic side has fewer effective alternatives, so it typically absorbs more of a unit tax. Legal responsibility for remitting the tax does not determine the economic burden.",
+        "zh": "相對缺乏彈性的一方較難調整，通常承擔較多稅負。法定把錢交政府的一方與最終承擔負擔的一方須分清。",
+        "example": "Example 例：If supply is very elastic while demand is steep, buyers bear most of a small tax. 供給容易退出，買家較難避開稅負。",
+        "question": "Demand is perfectly inelastic and supply slopes up. Who bears the unit tax? 需求垂直、供給向上，誰承擔？",
+        "options": [
+          "Whoever remits it / 依法定繳稅方",
+          "Buyers / 買家",
+          "Sellers / 賣家",
+          "Always half each / 必各半"
+        ],
+        "answer": 1,
+        "why": "Quantity stays fixed and the buyer price absorbs the wedge in this model.",
+        "graph": "",
+        "file": "ch6-11.html"
+      },
+      {
+        "objective": "Apply the same reasoning to payroll taxes and identify employer labor cost versus the wage received by workers.",
+        "section": "Unit taxes and incidence",
+        "id": "6-12",
+        "position": 12,
+        "title": "Payroll taxes / 工資稅",
+        "en": "Treat labor as the traded service. Firms are buyers paying total labor cost; workers are sellers receiving net wages. The gap equals the payroll tax. Changing which side legally pays an unchanged total tax does not by itself alter incidence.",
+        "zh": "把勞工當交易服務，企業支付總勞工成本，工人收到淨工資；差額是工資稅。總稅不變時，改由哪一方繳稅本身不改變經濟歸宿。",
+        "example": "Example 例：Employer cost $110, worker net wage $95: payroll tax wedge=$15. 企業成本和工人淨收不能混用。",
+        "question": "Employer pays $120 per hour and worker receives $100. Tax wedge? 工資稅楔多少？",
+        "options": [
+          "$120",
+          "$10",
+          "$20",
+          "$100"
+        ],
+        "answer": 2,
+        "why": "120−100=$20 per hour.",
+        "graph": "",
+        "file": "ch6-12.html"
+      }
+    ],
+    "sources": "Ch 6 slides, including slide 28 on rationing; `Chapter 6&8.pdf`, Ch 6 questions 7, 8 and 10; `Self-Practice_Chapter 6.pdf`."
+  },
+  {
+    "key": "7",
+    "title": "Chapter 7 — Consumers, Producers, and the Efficiency of Markets",
+    "items": [
+      {
+        "objective": "Interpret willingness to pay, the demand curve and the marginal buyer. Compute consumer surplus as willingness to pay minus the price paid, summed over units purchased.",
+        "section": "Consumer and producer surplus",
+        "id": "7-01",
+        "position": 1,
+        "title": "Willingness to pay and CS / 願付價格與消費者剩餘",
+        "en": "Willingness to pay is a buyer's maximum valuation for a unit. Buy units valued at least as highly as the price. Consumer surplus sums WTP−price over units purchased; the demand curve shows the marginal unit's valuation.",
+        "zh": "願付價格是每單位最高估值。只買價值至少等於價格的單位；CS 把已購單位的價值減付款加總，需求線顯示邊際買家估值。",
+        "example": "Example 例：WTP for three units is 7,5,3 and P=4. Buy two; CS=(7−4)+(5−4)=4.",
+        "question": "WTP is 9,6,2 and P=5. CS? 願付九、六、二，價格五？",
+        "options": [
+          "7",
+          "12",
+          "3",
+          "5"
+        ],
+        "answer": 3,
+        "why": "Buy the first two units; (9−5)+(6−5)=5.",
+        "graph": "",
+        "file": "ch7-01.html"
+      },
+      {
+        "objective": "Interpret sellers' opportunity costs, the supply curve and the marginal seller. Compute producer surplus as the price received minus cost, summed over units sold.",
+        "section": "Consumer and producer surplus",
+        "id": "7-02",
+        "position": 2,
+        "title": "Costs and PS / 成本與生產者剩餘",
+        "en": "A seller's cost measures the opportunity cost of supplying a unit. Producer surplus sums price−cost over units sold; supply gives the marginal seller's cost. With fixed costs, PS generally differs from profit by fixed cost.",
+        "zh": "賣方成本是供應單位的機會成本。PS 是售出單位的價格減成本總和；供給線顯示邊際成本。存在固定成本時，PS 通常等於利潤加固定成本。",
+        "example": "Example 例：Unit costs 1,3,5 and P=4. Sell two; PS=(4−1)+(4−3)=4.",
+        "question": "Unit costs 2,4,7 and P=6. PS? 成本二、四、七，價格六？",
+        "options": [
+          "6",
+          "8",
+          "2",
+          "4"
+        ],
+        "answer": 0,
+        "why": "Sell the first two: (6−2)+(6−4)=6.",
+        "graph": "",
+        "file": "ch7-02.html"
+      },
+      {
+        "objective": "Identify consumer surplus as the area below demand and above the buyer's price, and producer surplus as the area above supply and below the seller's price, over the units actually traded.",
+        "section": "Consumer and producer surplus",
+        "id": "7-03",
+        "position": 3,
+        "title": "Surplus areas / 剩餘面積",
+        "en": "CS lies below demand and above buyer price; PS lies above supply and below seller price. Integrate only over units actually traded. When tax creates two prices, use Pb for CS and Ps for PS.",
+        "zh": "CS 在需求線下、買方價格上；PS 在供給線上、賣方價格下，只計至實際交易量。有稅時兩邊使用不同價格。",
+        "example": "Example 例：Linear demand intercept 10, P=6, Q=4 gives CS=½×4×(10−6)=8. 以實際交易四單位作三角形底。",
+        "question": "Demand intercept 12, P=8, traded Q=4. CS? 線性需求下 CS？",
+        "options": [
+          "4",
+          "8",
+          "16",
+          "32"
+        ],
+        "answer": 1,
+        "why": "Triangle area=½×4×4=8.",
+        "graph": "welfare",
+        "file": "ch7-03.html"
+      },
+      {
+        "objective": "Use rectangles, triangles or discrete unit values to calculate and compare surplus as prices change. Separate gains to existing participants from gains to new participants.",
+        "section": "Consumer and producer surplus",
+        "id": "7-04",
+        "position": 4,
+        "title": "Changes in surplus / 剩餘變化",
+        "en": "A lower price benefits existing buyers on all units they already buy and may attract additional purchases. Separate the existing-unit rectangle from the new-unit triangle. For discrete values, sum unit gains directly.",
+        "zh": "減價讓原有購買量每件都得益，也吸引額外購買。可分原有單位長方形與新增單位三角形；離散題逐件加總。",
+        "example": "Example 例：Linear demand: price falls 6→4 and Q rises 4→6. Existing gain=(6−4)×4=8; new-unit gain=½×2×2=2; total CS gain=10.",
+        "question": "Price falls $2; existing purchases are 5 units. Gain on existing units alone? 舊購買量五件，減價兩元，舊單位收益？",
+        "options": [
+          "$5",
+          "$7",
+          "$10",
+          "$2"
+        ],
+        "answer": 2,
+        "why": "Each of five existing units saves $2, so the rectangle is $10.",
+        "graph": "welfare",
+        "file": "ch7-04.html"
+      },
+      {
+        "objective": "Compare a fixed-fee service with a per-use charge: identify the marginal cost faced by the consumer, the quantity chosen and net benefit after the fixed fee.",
+        "section": "Consumer and producer surplus",
+        "id": "7-05",
+        "position": 5,
+        "title": "Fixed fee versus per use / 固定費與按次收費",
+        "en": "Choose usage using the marginal price, then subtract all payments including fixed fees from total willingness to pay. A fixed fee affects whether to subscribe, while a zero per-use price can increase usage after subscribing.",
+        "zh": "使用量取決於邊際價格；比較整體淨收益時要扣所有付款，包括固定費。固定費影響是否訂閱，訂閱後的零邊際費可增加使用。",
+        "example": "Example 例：Demand Q=10−P. Free usage plus $20 fee yields Q=10, total value=50 and net surplus=30. Per-use price $2 yields Q=8 and CS=32. 按次方案淨收益較高。",
+        "question": "For Q=10−P with per-use P=2 and no fixed fee, quantity? 每次兩元，觀看量？",
+        "options": [
+          "10",
+          "2",
+          "5",
+          "8"
+        ],
+        "answer": 3,
+        "why": "Q=10−2=8; a fixed fee would enter the net-benefit comparison separately.",
+        "graph": "",
+        "file": "ch7-05.html"
+      },
+      {
+        "objective": "Calculate total surplus as consumer surplus plus producer surplus, or buyers' total value minus sellers' total cost in an untaxed market.",
+        "section": "Efficiency and welfare",
+        "id": "7-06",
+        "position": 6,
+        "title": "Total surplus / 總剩餘",
+        "en": "In an untaxed market, payments transfer value between buyer and seller. Adding CS and PS cancels the payment, leaving total value to buyers minus total opportunity cost to sellers.",
+        "zh": "無稅市場內，買方付款等於賣方收入，兩者相加抵消；總剩餘是買方總價值減賣方總機會成本。",
+        "example": "Example 例：WTP=20, price=12, cost=7. CS=8, PS=5, total=13=20−7. 價格影響分配但這筆交易總收益為十三。",
+        "question": "WTP=30, price=18, cost=10. Total surplus? 總剩餘？",
+        "options": [
+          "20",
+          "30",
+          "8",
+          "12"
+        ],
+        "answer": 0,
+        "why": "CS=12 plus PS=8 gives 20; also 30−10=20.",
+        "graph": "",
+        "file": "ch7-06.html"
+      },
+      {
+        "objective": "Explain why, in the competitive model without relevant market failures, the equilibrium quantity maximizes total surplus: trade units for which marginal value is at least marginal cost.",
+        "section": "Efficiency and welfare",
+        "id": "7-07",
+        "position": 7,
+        "title": "Efficient equilibrium / 有效率均衡",
+        "en": "In a competitive market without relevant market failures, trade units for which marginal buyer value exceeds marginal cost. At equilibrium, marginal value equals marginal cost; increasing or decreasing quantity from that point cannot raise total surplus.",
+        "zh": "沒有相關市場失靈的競爭模型中，應完成邊際價值高於成本的交易。均衡使兩者相等，偏離該數量會失去總剩餘。",
+        "example": "Example 例：An extra unit valued at $9 costs $6. Making it adds $3 surplus, so output below that unit leaves gains unrealized. 這項交易增加三元總收益。",
+        "question": "Marginal value is $8 and marginal cost $5. Efficient action? 邊際價值八、成本五？",
+        "options": [
+          "Only produce if price is zero / 價零才生產",
+          "Produce this unit / 生產該單位",
+          "Do not produce it / 不生產",
+          "Ignore both values / 不考慮兩者"
+        ],
+        "answer": 1,
+        "why": "The unit adds $3 to total surplus.",
+        "graph": "welfare",
+        "file": "ch7-07.html"
+      },
+      {
+        "objective": "Identify lost gains from trade when quantity is below the efficient level, and the loss from units whose marginal cost exceeds marginal value when quantity is above it.",
+        "section": "Efficiency and welfare",
+        "id": "7-08",
+        "position": 8,
+        "title": "Underproduction and overproduction / 過少與過多生產",
+        "en": "Below efficient quantity, some omitted units have value above cost, creating unrealized gains. Above it, extra units cost more than their value. Both reduce total surplus relative to efficient output.",
+        "zh": "產量不足會漏掉價值高於成本的交易；產量過多會完成成本高於價值的交易。兩者均減少相對有效率水平的總剩餘。",
+        "example": "Example 例：An unnecessary unit worth $4 costs $7, reducing surplus by $3. 過量的一件令總剩餘少三元。",
+        "question": "An extra unit has value $2 and cost $6. Its effect on total surplus? 額外單位的效果？",
+        "options": [
+          "$0",
+          "+$4",
+          "−$4",
+          "+$8"
+        ],
+        "answer": 2,
+        "why": "2−6=−4, so the unit is inefficient.",
+        "graph": "",
+        "file": "ch7-08.html"
+      },
+      {
+        "objective": "Distinguish efficiency from equality and identify circumstances, including market power and externalities, where the simple competitive-efficiency conclusion may not hold.",
+        "section": "Efficiency and welfare",
+        "id": "7-09",
+        "position": 9,
+        "title": "Efficiency assumptions / 效率假設",
+        "en": "Efficiency maximizes total surplus; equality concerns distribution. The competitive-efficiency result assumes conditions such as price taking and no relevant external effects. Market power or externalities can break the result.",
+        "zh": "效率最大化總剩餘，平等關心分配。市場效率結論依賴價格接受及無相關外部性等條件；壟斷力量或外部影響可破壞結論。",
+        "example": "Example 例：A market may maximize buyer-plus-seller surplus yet impose pollution costs on residents. Social surplus must include these costs. 必須加入第三方成本。",
+        "question": "Which issue can invalidate the simple competitive-efficiency conclusion? 何者可能推翻簡單效率結論？",
+        "options": [
+          "A buyer using cash / 買家用現金",
+          "A labeled quantity axis / 數量軸有標籤",
+          "Different shirt colors alone / 只有衫色不同",
+          "Unpriced pollution / 未計價污染"
+        ],
+        "answer": 3,
+        "why": "An external cost is omitted from private supply and demand.",
+        "graph": "",
+        "file": "ch7-09.html"
+      },
+      {
+        "objective": "Apply marginal analysis to insurance: compare the consumer's out-of-pocket price with society's marginal cost, and explain the possible effect on the quantity of care.",
+        "section": "Efficiency and welfare",
+        "id": "7-10",
+        "position": 10,
+        "title": "Insurance and excessive use / 保險與過量使用",
+        "en": "When a patient's out-of-pocket price is below the true marginal social cost, the patient may choose units valued above their own payment but below society's cost. Fixed premiums do not add to the marginal price of a procedure.",
+        "zh": "病人自付低於社會邊際成本時，可能使用價值高於自付但低於成本的服務。保費若不隨使用次數改變，不增加每項服務的邊際價格。",
+        "example": "Example 例：A procedure worth $60 costs society $100; the insured patient pays $20. It is privately attractive but reduces total surplus by $40. 私人想做，社會淨損四十。",
+        "question": "Value=$70, social cost=$100, copayment=$20. Social surplus from the procedure? 總剩餘變化？",
+        "options": [
+          "−$30",
+          "−$80",
+          "+$50",
+          "+$70"
+        ],
+        "answer": 0,
+        "why": "70−100=−30; the copayment is not the total resource cost.",
+        "graph": "",
+        "file": "ch7-10.html"
+      }
+    ],
+    "sources": "Ch 7 slides 2–30 and 38–41; `Chapter 7.pdf`, questions 4–6, 10–11."
+  },
+  {
+    "key": "8",
+    "title": "Chapter 8 — Application: The Costs of Taxation",
+    "items": [
+      {
+        "objective": "On a supply-and-demand graph, identify the pretax equilibrium, the tax wedge, the prices paid and received, and the quantity traded after the tax.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-01",
+        "position": 1,
+        "title": "Reading a tax diagram / 讀稅收圖",
+        "en": "Locate the original intersection at P0,Q0. After tax, read buyer price from demand and seller price from supply at the same lower quantity Qt. Their vertical difference is the unit tax.",
+        "zh": "先找稅前交點 P0、Q0。稅後在同一個較低交易量 Qt，從需求讀 Pb、供給讀 Ps；垂直差額就是單位稅。",
+        "example": "Example 例：P0=100,Q0=200; after tax Pb=120,Ps=90,Qt=180. The wedge is 30 and quantity falls 20.",
+        "question": "Tax diagram gives Pb=14,Ps=10 at Qt=50. Unit tax? 單位稅？",
+        "options": [
+          "50",
+          "4",
+          "10",
+          "14"
+        ],
+        "answer": 1,
+        "why": "The tax wedge is 14−10=4 per unit, not total revenue.",
+        "graph": "tax",
+        "file": "ch8-01.html"
+      },
+      {
+        "objective": "Calculate government revenue as `tax per unit × quantity traded after tax`; distinguish buyer spending `Pb × Q` from seller receipts `Ps × Q`.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-02",
+        "position": 2,
+        "title": "Revenue versus spending / 稅收、支出與收入",
+        "en": "Government revenue is t times post-tax quantity. Buyers spend Pb×Qt, while sellers receive net receipts Ps×Qt. The difference between these two amounts is government tax revenue.",
+        "zh": "政府稅收是 t 乘稅後交易量；買方支出為 Pb×Qt，賣方淨收為 Ps×Qt，差額就是稅收。",
+        "example": "Example 例：Pb=12,Ps=9,Q=100. Buyer spending=1,200; seller receipts=900; government revenue=300. 三個金額需分開。",
+        "question": "t=5 and post-tax Q=80. Government revenue? 政府收入？",
+        "options": [
+          "$16",
+          "$75",
+          "$400",
+          "$425"
+        ],
+        "answer": 2,
+        "why": "5×80=400. Use post-tax quantity.",
+        "graph": "",
+        "file": "ch8-02.html"
+      },
+      {
+        "objective": "Compute consumer surplus, producer surplus and government revenue after a tax. In the standard model, total surplus is `CS + PS + tax revenue`.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-03",
+        "position": 3,
+        "title": "Post-tax welfare / 稅後福利",
+        "en": "CS is computed using Pb, PS using Ps, and government revenue must be added to both. This counts tax payments as transfers within the standard welfare calculation rather than treating all tax as lost value.",
+        "zh": "CS 用 Pb，PS 用 Ps，再加政府收入。稅款在標準福利分析中是轉移，不能把整筆稅收當作損失。",
+        "example": "Example 例：CS=120,PS=80,revenue=50. Total post-tax surplus=250. 三者相加。",
+        "question": "After tax CS=40,PS=30,revenue=20. Total surplus? 稅後總剩餘？",
+        "options": [
+          "110",
+          "50",
+          "70",
+          "90"
+        ],
+        "answer": 3,
+        "why": "40+30+20=90.",
+        "graph": "taxwelfare",
+        "file": "ch8-03.html"
+      },
+      {
+        "objective": "Identify deadweight loss (DWL) as the lost gains from trades no longer made. For linear curves and an interior equilibrium, calculate `DWL = ½ × tax per unit × (Q before − Q after)`.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-04",
+        "position": 4,
+        "title": "Calculating DWL / 計算無謂損失",
+        "en": "DWL is the lost surplus from trades prevented by the tax. With linear supply and demand and an interior solution, it is the triangle with height t and base Q0−Qt.",
+        "zh": "無謂損失來自稅令原本互利的交易消失。線性供需內部解下，三角形高為 t，底為減少的交易量。",
+        "example": "Example 例：t=30, Q0=200, Qt=180. DWL=½×30×20=300. 單位稅乘減量再除二。",
+        "question": "t=4, Q0=100, Qt=80. DWL? 無謂損失？",
+        "options": [
+          "40",
+          "80",
+          "160",
+          "320"
+        ],
+        "answer": 0,
+        "why": "½×4×20=40.",
+        "graph": "tax",
+        "file": "ch8-04.html"
+      },
+      {
+        "objective": "Explain that a tax may reduce consumer and producer surplus by more than the government collects; the difference is DWL.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-05",
+        "position": 5,
+        "title": "Lost surplus versus tax receipts / 剩餘損失與稅收",
+        "en": "The reduction in CS plus PS equals government revenue plus DWL in the standard model. Revenue is transferred to government; DWL is the remaining loss in total surplus.",
+        "zh": "CS 與 PS 的總減少等於政府收入加 DWL。稅收只是轉到政府，超出稅收的損失才使總剩餘下降。",
+        "example": "Example 例：Buyers and sellers jointly lose 500; government receives 350. DWL=500−350=150. 無謂損失為一百五十。",
+        "question": "CS+PS falls by 120 and tax revenue is 90. DWL? 私人剩餘跌一百二十、稅收九十？",
+        "options": [
+          "210",
+          "30",
+          "90",
+          "120"
+        ],
+        "answer": 1,
+        "why": "120−90=30 is the part not recovered as government revenue.",
+        "graph": "",
+        "file": "ch8-05.html"
+      },
+      {
+        "objective": "Compare a tax's effects when demand or supply is more elastic, holding the tax and relevant initial conditions fixed. A larger quantity response creates a larger DWL.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-06",
+        "position": 6,
+        "title": "Elasticity and DWL / 彈性與無謂損失",
+        "en": "Holding the tax and relevant initial conditions fixed, more elastic supply or demand generally causes a larger quantity contraction. A wider base under the same wedge creates greater DWL.",
+        "zh": "單位稅與相關初始條件相同時，供給或需求更有彈性通常令數量減更多；同一高度下三角形底更大，DWL 更大。",
+        "example": "Example 例：With t=10, a 5-unit fall gives DWL=25; a 15-unit fall gives DWL=75. 同稅而減量不同。",
+        "question": "Same unit tax: market A loses 2 units, B loses 8. Which has larger linear-model DWL? 哪個 DWL 較大？",
+        "options": [
+          "Neither can have DWL / 均無損失",
+          "A",
+          "B",
+          "Equal / 相同"
+        ],
+        "answer": 2,
+        "why": "The wedge height is equal, but B's lost-quantity base is larger.",
+        "graph": "",
+        "file": "ch8-06.html"
+      },
+      {
+        "objective": "Recognize that a tax on a perfectly inelastic side can raise revenue with zero DWL in this model; understand that zero revenue does not by itself establish zero DWL.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-07",
+        "position": 7,
+        "title": "Zero DWL or zero revenue / 零損失與零稅收",
+        "en": "Perfectly inelastic demand or supply can keep quantity unchanged despite a tax, yielding revenue with zero DWL. Conversely, a prohibitive tax can eliminate trade and raise zero revenue while destroying gains from the original trades.",
+        "zh": "完全無彈性的一方可令量不變，有稅收但無 DWL。相反，禁止性高稅可把交易降至零，無收入卻失去原本交易收益。",
+        "example": "Example 例：A fixed 100 units still trade under a $2 tax: revenue=200 and DWL=0. If a different high tax prevents all beneficial trade, revenue=0 with positive DWL.",
+        "question": "Can a tax raise zero revenue yet create positive DWL? 稅可無收入但有正 DWL？",
+        "options": [
+          "No, revenue and DWL are identical / 不可，兩者相同",
+          "Only if quantity rises / 只在量升",
+          "Only with a subsidy / 只限補貼",
+          "Yes, if it eliminates beneficial trade / 可，若阻止互利交易"
+        ],
+        "answer": 3,
+        "why": "Zero tax receipts do not mean no lost trading opportunities.",
+        "graph": "",
+        "file": "ch8-07.html"
+      },
+      {
+        "objective": "Assess whether buyer spending or seller revenue rises or falls after a tax using the demand and supply conditions; a lower seller price and lower quantity reduce seller receipts for ordinary positive prices.",
+        "section": "Tax revenue and deadweight loss",
+        "id": "8-08",
+        "position": 8,
+        "title": "Buyer spending and seller receipts / 買方支出與賣方淨收",
+        "en": "After a normal unit tax, Ps and Qt both fall, so seller net receipts fall for positive prices. Buyer spending can rise or fall because Pb rises while Q falls; use demand responsiveness or calculate the products.",
+        "zh": "一般單位稅後賣方淨價及數量皆降，正價格下淨收入下降。買方價升而量跌，支出可升可跌，要看彈性或直接計算。",
+        "example": "Example 例：Before tax P=10,Q=100, spending=1,000. After Pb=12,Q=90, spending=1,080 even though CS falls. 支出增加不代表福利增加。",
+        "question": "Buyer price rises and quantity falls after tax. Buyer spending is always lower? 買方支出必下降嗎？",
+        "options": [
+          "No; it depends on responses / 否，視反應而定",
+          "It must be zero / 必零",
+          "It equals PS / 等於 PS",
+          "Yes / 必下降"
+        ],
+        "answer": 0,
+        "why": "Pb×Q combines opposite effects, so either direction is possible.",
+        "graph": "",
+        "file": "ch8-08.html"
+      },
+      {
+        "objective": "Trace how an increasing unit tax affects quantity, revenue and DWL; interpret the Laffer curve and recognize that tax revenue need not always increase when the tax rate rises.",
+        "section": "Tax size, time and subsidies",
+        "id": "8-09",
+        "position": 9,
+        "title": "Tax size and the Laffer curve / 稅額與拉弗曲線",
+        "en": "A larger tax generally lowers quantity and raises DWL. Tax revenue equals t×Q(t), so the higher rate can eventually be outweighed by fewer transactions. With linear curves and interior trade, DWL grows quadratically in t.",
+        "zh": "加稅通常減少交易並增加 DWL；收入為 t×Q(t)，稅更高時數量收縮可能抵消稅額增加。線性內部解下 DWL 隨 t 的平方增加。",
+        "example": "Example 例：If Q(t)=100−t, revenue=t(100−t); t=20 yields 1,600, t=50 yields 2,500, t=80 yields 1,600. 稅額太高可能少收。",
+        "question": "For Q(t)=100−t, which tax maximizes revenue? 哪個稅額收入最高？",
+        "options": [
+          "25",
+          "50",
+          "100",
+          "0"
+        ],
+        "answer": 1,
+        "why": "The revenue parabola peaks at t=50. This is not a claim that maximum revenue maximizes welfare.",
+        "graph": "laffer",
+        "file": "ch8-09.html"
+      },
+      {
+        "objective": "Compare short- and long-run effects when elasticities change. The optional elasticity/Laffer discussion is identified on slide 24.",
+        "section": "Tax size, time and subsidies",
+        "id": "8-10",
+        "position": 10,
+        "title": "Time horizon and taxes / 時間範圍與稅",
+        "en": "Longer-run demand or supply may be more elastic as buyers switch technologies and sellers adjust capacity. With comparable initial conditions and the same tax, the larger long-run quantity response tends to raise DWL and reduce the taxed quantity. The slide-24 elasticity/Laffer extension is optional.",
+        "zh": "長期可換技術或調產能，供需常更有彈性。同稅及可比較初始條件下，長期減量可能更大、DWL 更高。第 24 張的拉弗延伸標作 optional。",
+        "example": "Example 例：Heating-oil users cannot replace boilers immediately, but may switch fuels over several years. 長期避稅方式更多。",
+        "question": "If the same tax causes a larger quantity reduction in year 5, DWL is generally? 同稅第五年減量更大？",
+        "options": [
+          "Necessarily zero / 必零",
+          "Equal to revenue / 等於稅收",
+          "Larger / 更大",
+          "Smaller / 更小"
+        ],
+        "answer": 2,
+        "why": "The lost-quantity triangle has a larger base.",
+        "graph": "",
+        "file": "ch8-10.html"
+      },
+      {
+        "objective": "Analyze a per-unit subsidy: `Ps − Pb = subsidy`; quantity typically rises, buyers pay less, sellers receive more, and government expenditure is subsidy times quantity.",
+        "section": "Tax size, time and subsidies",
+        "id": "8-11",
+        "position": 11,
+        "title": "Subsidy equilibrium / 補貼均衡",
+        "en": "A unit subsidy creates Ps−Pb=s. Sellers receive more than buyers pay; supply and demand meet at those separate effective prices. In the ordinary competitive model, quantity rises and government spends s×Qsub.",
+        "zh": "補貼令 Ps 比 Pb 高 s。用兩個有效價格聯立供需；一般競爭模型下交易量增加，政府支出為 s 乘補貼後交易量。",
+        "example": "Example 例：Qs=Ps,Qd=100−Pb,s=20. Ps=Pb+20 gives Pb=40,Ps=60,Q=60; government spends 1,200.",
+        "question": "Subsidy per unit=3, traded quantity=50. Government spending? 政府支出？",
+        "options": [
+          "$300",
+          "$47",
+          "$53",
+          "$150"
+        ],
+        "answer": 3,
+        "why": "3×50=150. Use the subsidized quantity.",
+        "graph": "subsidy",
+        "file": "ch8-11.html"
+      },
+      {
+        "objective": "Calculate subsidy welfare as `CS + PS − government spending`; identify the potential DWL from units whose production cost exceeds buyers' valuation in the standard competitive model.",
+        "section": "Tax size, time and subsidies",
+        "id": "8-12",
+        "position": 12,
+        "title": "Subsidy welfare / 補貼福利",
+        "en": "Subtract government spending from CS+PS. Without external benefits or another relevant distortion, the subsidy induces units whose marginal cost exceeds willingness to pay, causing DWL from overproduction.",
+        "zh": "總剩餘為 CS+PS 減政府支出。沒有外部效益等因素時，補貼誘使部分成本高於願付價的交易，造成過量生產損失。",
+        "example": "Example 例：CS=80,PS=70,government spending=60. Total surplus=90. If original surplus was 100, DWL=10.",
+        "question": "CS=60,PS=50,subsidy spending=30. Total surplus? 總剩餘？",
+        "options": [
+          "80",
+          "110",
+          "140",
+          "20"
+        ],
+        "answer": 0,
+        "why": "60+50−30=80; spending is a cost in this calculation.",
+        "graph": "subsidy",
+        "file": "ch8-12.html"
+      },
+      {
+        "objective": "Compare a subsidy and a binding price ceiling in terms of price, quantity, shortage and government spending; allow for market failures or other stated assumptions when evaluating policy.",
+        "section": "Tax size, time and subsidies",
+        "id": "8-13",
+        "position": 13,
+        "title": "Subsidy versus ceiling / 補貼與價格上限",
+        "en": "A binding ceiling lowers the allowed price but restricts trade through shortage. A subsidy can lower buyer price while raising seller receipts and quantity, at a fiscal cost. Evaluate welfare using the stated externalities, allocation and government budget.",
+        "zh": "上限降低合法價格但造成短缺；補貼可同時降低買方價、提高賣方淨收及交易量，但要政府支出。政策評價取決於外部性、配給與財政假設。",
+        "example": "Example 例：Rent ceiling discourages supply; a per-unit housing subsidy can encourage more supply while lowering tenant price. It requires funding. 租客便宜但兩種政策供給誘因不同。",
+        "question": "Which typically requires direct government spending per unit traded? 何者通常每交易一單位需政府付款？",
+        "options": [
+          "Binding ceiling alone / 單純價格上限",
+          "Per-unit subsidy / 每單位補貼",
+          "Nonbinding floor alone / 無約束下限",
+          "Removing a ceiling / 取消上限"
+        ],
+        "answer": 1,
+        "why": "The subsidy pays s for every traded unit; a ceiling itself does not.",
+        "graph": "",
+        "file": "ch8-13.html"
+      }
+    ],
+    "sources": "Ch 8 slides, especially 2–15, 21–24 and 30–32; `Chapter 6&8.pdf`, Ch 8 questions 7, 8 and 10; `Self-Practice_Chapter 8.pdf`."
+  },
+  {
+    "key": "14",
+    "title": "Chapter 14 — The Costs of Production",
+    "items": [
+      {
+        "objective": "Calculate total revenue `TR = P × Q`; distinguish explicit costs from implicit opportunity costs, including forgone wages and interest on the owner's funds.",
+        "section": "Costs, revenue and profit",
+        "id": "14-01",
+        "position": 1,
+        "title": "Revenue and opportunity costs / 收入與機會成本",
+        "en": "TR equals price times quantity. Explicit costs require monetary payments; implicit costs are forgone alternatives for owned resources, such as the owner's wage or interest income. Economic costs include both.",
+        "zh": "總收入為 P×Q。顯性成本需付款；隱性成本是自有資源放棄的其他收益，例如老闆工資及資金利息。經濟成本包含兩者。",
+        "example": "Example 例：Sell 100 items at $5: TR=500. Rent $100 is explicit; forgone owner wages $150 are implicit. 成本性質取決於有否付款。",
+        "question": "Owner invests savings that could earn $200 interest. This forgone interest is? 放棄利息屬什麼？",
+        "options": [
+          "No economic cost / 無經濟成本",
+          "Necessarily a cash expense / 必現金支出",
+          "Implicit cost / 隱性成本",
+          "Sales revenue / 銷售收入"
+        ],
+        "answer": 2,
+        "why": "Using owned funds sacrifices their next-best return.",
+        "graph": "",
+        "file": "ch14-01.html"
+      },
+      {
+        "objective": "Calculate accounting profit as revenue minus explicit costs and economic profit as revenue minus both explicit and implicit costs. Interpret zero economic profit as covering all opportunity costs.",
+        "section": "Costs, revenue and profit",
+        "id": "14-02",
+        "position": 2,
+        "title": "Accounting and economic profit / 會計與經濟利潤",
+        "en": "Accounting profit subtracts explicit costs from revenue. Economic profit also subtracts implicit costs. Zero economic profit covers all opportunity costs, including the owner's normal return.",
+        "zh": "會計利潤扣顯性成本；經濟利潤再扣隱性成本。零經濟利潤已補償老闆等自有資源的機會成本。",
+        "example": "Example 例：TR=1,000, explicit=600, implicit=300. Accounting profit=400, economic profit=100. 兩種利潤相差隱性成本。",
+        "question": "TR=500, explicit=300, implicit=200. Economic profit? 經濟利潤？",
+        "options": [
+          "200",
+          "300",
+          "500",
+          "0"
+        ],
+        "answer": 3,
+        "why": "500−300−200=0, although accounting profit is 200.",
+        "graph": "",
+        "file": "ch14-02.html"
+      },
+      {
+        "objective": "Apply marginal decisions using the change in **total** cost, including when average cost changes between output levels; average cost itself is not the cost of one extra unit.",
+        "section": "Costs, revenue and profit",
+        "id": "14-03",
+        "position": 3,
+        "title": "Marginal cost from total cost / 從總成本求邊際成本",
+        "en": "First convert average costs back to total costs when necessary, then take ΔTC/ΔQ. The extra unit's cost can be much larger than either the average cost or the change in average cost.",
+        "zh": "先把平均成本乘產量還原總成本，再用 ΔTC/ΔQ。額外單位成本可遠高於平均成本或平均成本增幅。",
+        "example": "Example 例：Q=600,ATC=300 gives TC=180,000; Q=601,ATC=301 gives TC=180,901. The extra unit costs 901.",
+        "question": "Q=10,ATC=5; Q=11,ATC=6. MC of unit 11? 第十一件 MC？",
+        "options": [
+          "16",
+          "1",
+          "6",
+          "11"
+        ],
+        "answer": 0,
+        "why": "11×6−10×5=16. Compare an extra order's revenue with 16.",
+        "graph": "",
+        "file": "ch14-03.html"
+      },
+      {
+        "objective": "Calculate marginal product `MP = Δoutput / Δinput` from a production table; recognize increasing and diminishing marginal product and explain the shape of the production function.",
+        "section": "Production and cost curves",
+        "id": "14-04",
+        "position": 4,
+        "title": "Marginal product / 邊際產量",
+        "en": "MP is the change in output divided by the change in an input. It can initially rise with specialization and later fall as workers share fixed equipment. A production function becomes flatter when marginal product diminishes.",
+        "zh": "邊際產量為產量變化除投入變化。分工可能先提高 MP，但工人共享固定設備後 MP 可遞減；生產函數隨之變平。",
+        "example": "Example 例：Output with 0,1,2,3 workers is 0,10,25,35. MPs are 10,15,10: first rising, then diminishing.",
+        "question": "Output rises from 30 to 42 when labor rises from 3 to 4. MP? 邊際產量多少？",
+        "options": [
+          "4",
+          "12",
+          "42",
+          "3"
+        ],
+        "answer": 1,
+        "why": "ΔQ/ΔL=(42−30)/(4−3)=12.",
+        "graph": "production",
+        "file": "ch14-04.html"
+      },
+      {
+        "objective": "Explain, with a fixed input price and other conditions held constant, why diminishing marginal product tends to raise marginal cost. Relate the shape of the production function to the total-cost curve.",
+        "section": "Production and cost curves",
+        "id": "14-05",
+        "position": 5,
+        "title": "Marginal product and cost / 邊際產量與成本",
+        "en": "With a fixed wage w and labor as the changing input, marginal cost is approximately w/MP. Lower marginal product means more labor per extra unit, raising MC and making total cost steeper as output expands.",
+        "zh": "工資 w 固定、只調勞工時，MC 約為 w/MP。MP 下降使每件需要更多勞工，MC 上升，總成本曲線變陡。",
+        "example": "Example 例：A $100 worker adds 20 units, costing $5 per extra unit; if the next adds 10, incremental cost becomes $10 per unit. 邊際產量減半，單位額外成本加倍。",
+        "question": "Wage=60 and MP=12. MC? 邊際成本？",
+        "options": [
+          "60",
+          "720",
+          "5",
+          "12"
+        ],
+        "answer": 2,
+        "why": "w/MP=60/12=5.",
+        "graph": "",
+        "file": "ch14-05.html"
+      },
+      {
+        "objective": "Identify fixed cost `FC`, variable cost `VC`, and total cost `TC = FC + VC`; recover any missing value in a cost table.",
+        "section": "Production and cost curves",
+        "id": "14-06",
+        "position": 6,
+        "title": "Fixed, variable and total cost / 固定、可變與總成本",
+        "en": "Fixed cost does not vary with current output in the relevant short run. Variable cost does; TC=FC+VC. At zero output, VC is zero in the standard schedules, so TC(0) identifies FC.",
+        "zh": "固定成本在相關短期不隨產量改變，可變成本則會。TC=FC+VC；標準表中零產量的 VC=0，因此 TC(0)=FC。",
+        "example": "Example 例：TC at zero is 30. At Q=5, TC=80, so FC=30 and VC=50.",
+        "question": "FC=40 and TC=110. VC? 可變成本？",
+        "options": [
+          "110",
+          "150",
+          "40",
+          "70"
+        ],
+        "answer": 3,
+        "why": "VC=TC−FC=110−40=70.",
+        "graph": "",
+        "file": "ch14-06.html"
+      },
+      {
+        "objective": "Calculate `AFC = FC/Q`, `AVC = VC/Q`, `ATC = TC/Q = AFC + AVC`, and `MC = ΔTC/ΔQ = ΔVC/ΔQ` when fixed cost does not change. Average costs require `Q > 0`.",
+        "section": "Production and cost curves",
+        "id": "14-07",
+        "position": 7,
+        "title": "Average and marginal formulas / 平均與邊際公式",
+        "en": "AFC=FC/Q, AVC=VC/Q, ATC=TC/Q=AFC+AVC. MC=ΔTC/ΔQ=ΔVC/ΔQ when FC stays fixed. Average costs are undefined at zero quantity.",
+        "zh": "平均成本以各項總成本除產量，ATC=AFC+AVC。FC 不變時，MC 也可由 VC 的變化計算。Q=0 時不能計平均成本。",
+        "example": "Example 例：At Q=4,FC=20,VC=28: AFC=5,AVC=7,ATC=12. If Q=5 has TC=60, MC=(60−48)/1=12.",
+        "question": "FC=12,VC=18,Q=3. ATC? 平均總成本？",
+        "options": [
+          "10",
+          "30",
+          "4",
+          "6"
+        ],
+        "answer": 0,
+        "why": "(12+18)/3=10.",
+        "graph": "",
+        "file": "ch14-07.html"
+      },
+      {
+        "objective": "Read and draw the typical curves: AFC falls with output; MC crosses AVC and ATC at their minima; MC below an average pulls it down and MC above it pulls it up.",
+        "section": "Production and cost curves",
+        "id": "14-08",
+        "position": 8,
+        "title": "Cost curve relationships / 成本線關係",
+        "en": "AFC falls as a fixed sum is spread across output. When MC is below an average it pulls that average down; above it, the average rises. Thus MC crosses AVC and ATC at their respective minima for smooth typical curves.",
+        "zh": "固定成本分攤更多產量令 AFC 下降；MC 低於平均值會拉低平均，高於平均值會拉高平均。因此 MC 在 AVC、ATC 各自最低點相交。",
+        "example": "Example 例：Current ATC=10; the next unit costs 6. Adding a below-average unit lowers ATC. 下一件較便宜會拉低平均。",
+        "question": "At a given output MC<ATC. What is ATC doing locally? 平均總成本如何變？",
+        "options": [
+          "Undefined / 未定義",
+          "Falling / 下降",
+          "Rising / 上升",
+          "Always at minimum / 必在最低點"
+        ],
+        "answer": 1,
+        "why": "A below-average marginal unit pulls the average down.",
+        "graph": "cost",
+        "file": "ch14-08.html"
+      },
+      {
+        "objective": "Identify efficient scale as the output minimizing ATC; calculate it from a cost schedule or graph.",
+        "section": "Production and cost curves",
+        "id": "14-09",
+        "position": 9,
+        "title": "Efficient scale / 有效率規模",
+        "en": "Efficient scale is the output minimizing ATC. Read the lowest ATC point or compare ATC across a schedule. It is distinct from maximum output and from the minimum AVC shutdown threshold.",
+        "zh": "有效率規模是 ATC 最低的產量，可由圖最低點或表格比較找出。它與最大產量及 AVC 最低點不同。",
+        "example": "Example 例：ATC at Q=1,2,3,4 is 12,8,7,8. Efficient scale is Q=3. 第三單位產量平均成本最低。",
+        "question": "ATC values at Q=2,3,4 are 9,6,7. Efficient scale among these choices? 有效率規模？",
+        "options": [
+          "Q=9",
+          "Q=2",
+          "Q=3",
+          "Q=4"
+        ],
+        "answer": 2,
+        "why": "The minimum listed ATC is 6 at Q=3.",
+        "graph": "cost",
+        "file": "ch14-09.html"
+      },
+      {
+        "objective": "Predict which cost curves change with a fixed lump-sum tax versus a per-unit production tax: the former changes FC, AFC and ATC; the latter changes VC, AVC, ATC and MC.",
+        "section": "Production and cost curves",
+        "id": "14-10",
+        "position": 10,
+        "title": "Lump-sum versus unit tax / 固定總額稅與單位稅",
+        "en": "A fixed lump-sum tax increases FC, AFC and ATC but leaves VC, AVC and MC unchanged. A per-unit tax adds to VC and raises AVC, ATC and MC, leaving FC and AFC unchanged.",
+        "zh": "固定總額稅增加 FC、AFC、ATC，不改 VC、AVC、MC；每件稅增加 VC、AVC、ATC、MC，不改 FC、AFC。",
+        "example": "Example 例：A $100 firm tax adds 100/Q to ATC. A $2 output tax adds $2 to AVC,ATC and MC. 前者隨產量分攤，後者每件相同。",
+        "question": "Which curve stays unchanged after a fixed lump-sum tax? 固定總額稅後何線不變？",
+        "options": [
+          "Total fixed cost",
+          "ATC",
+          "AFC",
+          "MC"
+        ],
+        "answer": 3,
+        "why": "The tax does not alter the extra cost of another unit.",
+        "graph": "",
+        "file": "ch14-10.html"
+      },
+      {
+        "objective": "Distinguish fixed inputs in the short run from the ability to vary all inputs and plant scale in the long run.",
+        "section": "Short run and long run",
+        "id": "14-11",
+        "position": 11,
+        "title": "Short run and long run / 短期與長期",
+        "en": "In the short run, some inputs or plant scale are fixed. In the long run, all inputs can be adjusted, including entry, exit and plant size. The relevant horizon depends on how long adjustments take, not a universal number of months.",
+        "zh": "短期有部分投入或規模固定；長期可改全部投入，包括廠房和退出。長短期由調整所需時間決定，沒有通用月份界線。",
+        "example": "Example 例：A bakery can hire overtime this week but needs months to install a larger oven. The oven is fixed in the short run.",
+        "question": "Which is possible in the long run? 長期可以怎樣？",
+        "options": [
+          "Adjust plant size / 調整廠房規模",
+          "Only change labor / 只調勞工",
+          "No entry or exit / 不可進出",
+          "All costs stay fixed / 所有成本固定"
+        ],
+        "answer": 0,
+        "why": "All inputs become adjustable over the long-run horizon.",
+        "graph": "",
+        "file": "ch14-11.html"
+      },
+      {
+        "objective": "Identify economies of scale, constant returns to scale and diseconomies of scale from how long-run average total cost changes with output; explain specialization and coordination as possible reasons.",
+        "section": "Short run and long run",
+        "id": "14-12",
+        "position": 12,
+        "title": "Scale economies / 規模經濟",
+        "en": "Economies of scale mean LRATC falls as output grows, often through specialization. Constant returns to scale mean LRATC is unchanged; diseconomies mean it rises, possibly because coordination becomes harder. Distinguish this from diminishing MP with fixed inputs.",
+        "zh": "規模經濟是長期 ATC 隨產量下降；不變規模報酬是 ATC 持平；規模不經濟是 ATC 上升，可能來自協調困難。這與固定投入下 MP 遞減不同。",
+        "example": "Example 例：Doubling all inputs doubles output: unchanged cost per unit. If coordination makes costs rise faster than output, LRATC rises.",
+        "question": "Output expands and LRATC falls. What is present? 產量增加、長期平均成本下降？",
+        "options": [
+          "A fixed short-run input by definition / 定義上固定投入",
+          "Economies of scale / 規模經濟",
+          "Diseconomies of scale / 規模不經濟",
+          "Zero marginal cost necessarily / MC 必零"
+        ],
+        "answer": 1,
+        "why": "Falling LRATC is the definition of economies of scale.",
+        "graph": "scale",
+        "file": "ch14-12.html"
+      }
+    ],
+    "sources": "Ch 14 slides 2–30; `Chapter 14.pdf`, questions 4 and 7–9; `Self-Practice_Chapter 14.pdf`."
+  },
+  {
+    "key": "15",
+    "title": "Chapter 15 — Firms in Competitive Markets",
+    "items": [
+      {
+        "objective": "Identify a competitive market's assumptions: many buyers and sellers, identical products and price-taking behavior; understand free entry and exit as the long-run model assumption.",
+        "section": "Competitive firm and output choice",
+        "id": "15-01",
+        "position": 1,
+        "title": "Competitive assumptions / 競爭市場假設",
+        "en": "Many buyers and sellers trade identical products, so an individual firm takes the market price as given. Free entry and exit is a long-run assumption that permits industry adjustment when profits change.",
+        "zh": "許多買賣雙方交易同質產品，個別企業無法自行影響市價。自由進出是長期假設，使利潤吸引進入或虧損引致退出。",
+        "example": "Example 例：One small wheat farmer cannot raise the market wheat price by choosing a personal price. 新企業能進入時，長期正利潤會吸引供給。",
+        "question": "A price-taking firm faces which demand for its output? 價格接受者面對的個別需求？",
+        "options": [
+          "Vertical at zero / 零量垂直線",
+          "An upward labor supply curve / 勞工供給線",
+          "Horizontal at market price / 市價水平線",
+          "The entire downward market demand / 整體市場需求"
+        ],
+        "answer": 2,
+        "why": "It can sell relevant quantities at the given market price; individual and market demand differ.",
+        "graph": "",
+        "file": "ch15-01.html"
+      },
+      {
+        "objective": "Calculate `TR = P × Q`, `AR = TR/Q`, and `MR = ΔTR/ΔQ`. For a price-taking firm, `P = AR = MR`.",
+        "section": "Competitive firm and output choice",
+        "id": "15-02",
+        "position": 2,
+        "title": "TR, AR and MR / 總、平均及邊際收入",
+        "en": "TR=Pq, AR=TR/q, and MR=ΔTR/Δq. For a price taker selling every unit at unchanged P, AR and MR both equal P. Market revenue need not have this property if market price changes with total quantity.",
+        "zh": "TR=Pq，AR=TR/q，MR=ΔTR/Δq。個別價格接受企業每件以同價出售，故 P=AR=MR；不可直接套到會影響價格的整體市場。",
+        "example": "Example 例：P=$8. Selling 3 units gives TR=24; selling 4 gives TR=32, so MR=8 and AR=8.",
+        "question": "A competitive firm sells 5 units at $6 each. AR and MR? AR 及 MR？",
+        "options": [
+          "AR=30,MR=6",
+          "AR=6,MR=30",
+          "AR=5,MR=6",
+          "AR=6,MR=6"
+        ],
+        "answer": 3,
+        "why": "Revenue per unit and extra-unit revenue both equal price.",
+        "graph": "",
+        "file": "ch15-02.html"
+      },
+      {
+        "objective": "Find the profit-maximizing output by comparing total profit across feasible quantities or producing up to the point where marginal revenue equals marginal cost on the relevant rising MC segment. With discrete units, compare the extra revenue and extra cost of each unit.",
+        "section": "Competitive firm and output choice",
+        "id": "15-03",
+        "position": 3,
+        "title": "Choosing output / 選擇產量",
+        "en": "Compare total profit across feasible quantities, including zero. For a smooth standard cost curve and a firm that operates, select the rising MC intersection with MR. With discrete units, expand while the added revenue covers the added cost, checking ties and nonstandard cost patterns.",
+        "zh": "比較各可行產量及零產量的總利潤。一般平滑成本線營運時取上升 MC 與 MR 交點；離散單位須比較每件額外收益成本並留意特殊成本。",
+        "example": "Example 例：P=10, successive MCs=4,7,12. The first two units add profit; the third reduces it. Choose q=2 if operating beats shutdown.",
+        "question": "P=9; MCs of three units are 3,8,11. Best operating output? 最佳營運產量？",
+        "options": [
+          "2",
+          "3",
+          "0 solely because MC rises / MC 上升所以零",
+          "1"
+        ],
+        "answer": 0,
+        "why": "Unit 2 adds 9−8=1; unit 3 adds 9−11=−2.",
+        "graph": "firm",
+        "file": "ch15-03.html"
+      },
+      {
+        "objective": "Check the shutdown choice as well as candidate outputs: an `MR = MC` intersection alone does not establish the global profit maximum, especially with multiple intersections or discrete output.",
+        "section": "Competitive firm and output choice",
+        "id": "15-04",
+        "position": 4,
+        "title": "Checking the global choice / 檢查整體最佳選擇",
+        "en": "MR=MC alone is only a candidate condition. Compare other intersections, feasible discrete quantities and shutdown. A falling-MC intersection can be a profit minimum, and an operating optimum can still lose more than producing zero.",
+        "zh": "MR=MC 只提供候選點；還要比較其他交點、離散產量及停產。下降 MC 的交點可能是利潤最低，營運解也可能不及零產量。",
+        "example": "Example 例：P=5; TC(0)=10,TC(1)=15,TC(2)=16. Unit 1 has MR=MC=5, but profits at q=0,1,2 are −10,−10,−6. q=2 is better.",
+        "question": "An MR=MC point exists but its profit is −80; shutdown loses only 50. Choose? 交點虧八十，停產虧五十？",
+        "options": [
+          "Operate at the intersection / 在交點營運",
+          "Shut down / 停產",
+          "Increase output without checking / 不檢查就增產",
+          "Exit must be immediate / 必立即退出"
+        ],
+        "answer": 1,
+        "why": "Compare total profit: −50 exceeds −80.",
+        "graph": "",
+        "file": "ch15-04.html"
+      },
+      {
+        "objective": "Calculate profit or loss as `TR − TC = (P − ATC) × Q`; identify the profit or loss rectangle on a graph.",
+        "section": "Competitive firm and output choice",
+        "id": "15-05",
+        "position": 5,
+        "title": "Profit and loss rectangle / 利潤與虧損面積",
+        "en": "Profit=TR−TC=(P−ATC)q, with ATC evaluated at the chosen output. On a graph, the height is P−ATC and the width is q. A negative height means loss.",
+        "zh": "利潤=(P−ATC)q，ATC 要在所選產量讀取。圖中長方形高為價與 ATC 差，闊為 q；價低於 ATC 就是虧損。",
+        "example": "Example 例：P=12,ATC=9,q=20. Profit=(12−9)×20=60. 每件賺三元、二十件賺六十。",
+        "question": "P=7,ATC=10,q=5. Profit? 利潤？",
+        "options": [
+          "+15",
+          "+35",
+          "−15",
+          "−3"
+        ],
+        "answer": 2,
+        "why": "(7−10)×5=−15.",
+        "graph": "firm",
+        "file": "ch15-05.html"
+      },
+      {
+        "objective": "Apply the short-run shutdown rule: shut down when `P < AVC` at the best operating quantity, or equivalently `TR < VC`; fixed costs remain payable. At equality, the firm is indifferent under the model.",
+        "section": "Shutdown, exit and supply",
+        "id": "15-06",
+        "position": 6,
+        "title": "Shutdown rule / 停產法則",
+        "en": "In the short run, fixed costs remain payable. Shut down if the best operating revenue cannot cover variable cost: TR<VC, or P<AVC at that candidate output. At the threshold, operating and shutdown can give equal profit.",
+        "zh": "短期停產仍要付固定成本。最佳營運方案若 TR<VC，等同該產量 P<AVC，就應停產；臨界相等時兩者無差異。",
+        "example": "Example 例：TR=80,VC=100,FC=50. Operating loses 70; shutdown loses 50. Stop production for the period.",
+        "question": "P=4,AVC=5 at the best operating candidate. Short-run decision? 最佳候選產量下價四、AVC 五？",
+        "options": [
+          "Operate because revenue is positive / 收入正就營運",
+          "Ignore variable cost / 忽略 VC",
+          "Enter more markets automatically / 自動進入更多市場",
+          "Shut down / 停產"
+        ],
+        "answer": 3,
+        "why": "Revenue fails to cover avoidable variable costs.",
+        "graph": "shutdown",
+        "file": "ch15-06.html"
+      },
+      {
+        "objective": "Distinguish operating at a loss from shutting down: a firm may continue if revenue covers variable costs and contributes toward fixed costs.",
+        "section": "Shutdown, exit and supply",
+        "id": "15-07",
+        "position": 7,
+        "title": "Operating at a loss / 虧損下營運",
+        "en": "A loss does not by itself imply shutdown. If revenue covers VC and some FC, operating reduces the loss compared with paying all FC without production. Compare the two profit levels explicitly.",
+        "zh": "虧損本身不足以判斷停產。收入涵蓋 VC 並支付部分 FC 時，營運虧損較少；把兩個方案利潤直接比較最清楚。",
+        "example": "Example 例：TR=150,VC=100,FC=100. Operate: profit=−50. Shutdown: profit=−100. Continue this period.",
+        "question": "TR=90,VC=70,FC=40. Operating profit versus shutdown? 營運和停產利潤？",
+        "options": [
+          "−20 versus −40 / 營運較好",
+          "−40 versus −20 / 停產較好",
+          "+20 versus 0 / 營運賺二十",
+          "−90 versus −70 / 均按收入損失"
+        ],
+        "answer": 0,
+        "why": "Operating loss=90−70−40=−20; shutdown pays FC=40.",
+        "graph": "",
+        "file": "ch15-07.html"
+      },
+      {
+        "objective": "Apply the long-run exit rule `P < ATC`, and entry incentive when economic profit is positive; at equality, the firm earns zero economic profit.",
+        "section": "Shutdown, exit and supply",
+        "id": "15-08",
+        "position": 8,
+        "title": "Long-run entry and exit / 長期進入與退出",
+        "en": "With all costs avoidable in the long run, persistent P<ATC creates an exit incentive. Positive economic profit attracts entry where entry is free. At P=ATC, normal opportunity costs are covered and economic profit is zero.",
+        "zh": "長期全部成本可調整，持續 P<ATC 會引致退出；自由進入下正經濟利潤吸引新企業。P=ATC 已涵蓋正常機會成本。",
+        "example": "Example 例：P=8 and minimum sustainable ATC=10: remaining indefinitely gives a negative economic return, encouraging exit.",
+        "question": "In the long run P>ATC with free entry. Expected response? 長期價高於 ATC，自由進入？",
+        "options": [
+          "Shutdown because profit is positive / 正利潤所以停產",
+          "Entry / 進入",
+          "Exit / 退出",
+          "No incentive to enter / 無進入誘因"
+        ],
+        "answer": 1,
+        "why": "Positive economic profit attracts entrants under the model.",
+        "graph": "",
+        "file": "ch15-08.html"
+      },
+      {
+        "objective": "Identify the firm's short-run supply as the relevant rising part of MC at or above AVC, with zero output below the shutdown threshold; identify its long-run supply relative to ATC.",
+        "section": "Shutdown, exit and supply",
+        "id": "15-09",
+        "position": 9,
+        "title": "Firm supply thresholds / 企業供給門檻",
+        "en": "Short-run supply follows the rising MC branch above minimum AVC; lower prices imply zero output. The textbook long-run supply rule uses rising MC at or above minimum ATC when all costs are avoidable. At thresholds, indifference can occur.",
+        "zh": "短期供給取最低 AVC 以上的上升 MC，低於門檻供給為零。課本長期供給以最低 ATC 為門檻；門檻處可無差異。",
+        "example": "Example 例：Minimum AVC=3 and minimum ATC=5. At P=4, the firm may operate in the short run yet prefer exit in the long run.",
+        "question": "Price is below minimum AVC. Short-run supply? 價低於最低 AVC，短期供給？",
+        "options": [
+          "Efficient-scale output / 有效率規模",
+          "A negative quantity / 負數產量",
+          "Zero / 零",
+          "The full MC curve / 全條 MC"
+        ],
+        "answer": 2,
+        "why": "Every positive operating option fails to cover variable cost.",
+        "graph": "shutdown",
+        "file": "ch15-09.html"
+      },
+      {
+        "objective": "Sum individual quantities supplied horizontally to find market supply with a fixed number of firms. Given market demand and the number of identical firms, solve for the short-run market price, market quantity, firm output and profit.",
+        "section": "Shutdown, exit and supply",
+        "id": "15-10",
+        "position": 10,
+        "title": "Market equilibrium with N firms / N 家企業的市場均衡",
+        "en": "Sum each firm's q(P) horizontally. With identical firms, market supply is Nq(P). Equate this to market demand, solve P, then compute q and profit using the firm's own costs.",
+        "zh": "先以 Nq(P) 得市場供給，再與市場需求相等求價。個別產量與利潤必須用企業自己的成本計算。",
+        "example": "Example 例：TC=50+q²/2,MC=q, N=9; Qd=120−P. Each q=P, so 9P=120−P gives P=12,Q=108,q=12; profit=144−122=22.",
+        "question": "Four identical firms each supply q=P. Demand Qd=100−P. Market price? 四家各供 q=P，市場價？",
+        "options": [
+          "25",
+          "50",
+          "10",
+          "20"
+        ],
+        "answer": 3,
+        "why": "4P=100−P gives P=20 and market Q=80.",
+        "graph": "",
+        "file": "ch15-10.html"
+      },
+      {
+        "objective": "Trace how positive profit induces entry and shifts market supply right, while losses induce exit and shift supply left, under free entry and exit.",
+        "section": "Long-run equilibrium and changes",
+        "id": "15-11",
+        "position": 11,
+        "title": "Entry and supply adjustment / 進入與供給調整",
+        "en": "Positive profit induces entry, shifting market supply right and lowering price; losses induce exit, shifting supply left and raising price, holding demand and relevant costs fixed. Adjustment continues until entry or exit incentives disappear.",
+        "zh": "需求及相關成本不變下，正利潤吸引進入使市場供給右移、價跌；虧損引致退出使供給左移、價升，直到進出誘因消失。",
+        "example": "Example 例：A profitable wheat industry attracts farmers. Greater market supply reduces price and each firm's economic profit. 更多企業分攤市場需求。",
+        "question": "Firms incur persistent losses and exit. Market supply moves? 虧損退出後市場供給？",
+        "options": [
+          "Left / 左移",
+          "Right / 右移",
+          "Only demand moves / 只需求移動",
+          "Quantity axis changes units / 數量軸單位改變"
+        ],
+        "answer": 0,
+        "why": "Fewer firms supply less at a given price.",
+        "graph": "",
+        "file": "ch15-11.html"
+      },
+      {
+        "objective": "In the standard identical-firm, free-entry long-run equilibrium, identify `P = MR = MC = minimum ATC`, zero economic profit, and production at efficient scale. Determine market quantity and number of firms from demand and output per firm.",
+        "section": "Long-run equilibrium and changes",
+        "id": "15-12",
+        "position": 12,
+        "title": "Long-run equilibrium and firm count / 長期均衡與企業數",
+        "en": "For identical firms with free entry and constant input costs, long-run equilibrium has P=MC=min ATC and zero economic profit. Obtain market Q from demand at that price, then divide by efficient-scale q to find N.",
+        "zh": "相同企業、自由進出及投入成本不變時，長期 P=MC=最低 ATC，經濟利潤為零。市需求求 Q，再除個別有效率產量得企業數。",
+        "example": "Example 例：TC=50+q²/2 gives ATC=50/q+q/2. Its minimum is at q=10 with ATC=MC=10. Qd=120−P gives Q=110, so N=11.",
+        "question": "Long-run P=8, market Q=160, each firm q=10. Number of firms? 企業數？",
+        "options": [
+          "10",
+          "16",
+          "20",
+          "8"
+        ],
+        "answer": 1,
+        "why": "N=Q/q=160/10=16.",
+        "graph": "longrun",
+        "file": "ch15-12.html"
+      },
+      {
+        "objective": "Explain how a demand change affects price and profits in the short run, then entry or exit and the long-run outcome. Understand why long-run industry supply can be horizontal under identical constant-cost conditions and upward sloping if input costs rise or firms differ.",
+        "section": "Long-run equilibrium and changes",
+        "id": "15-13",
+        "position": 13,
+        "title": "Demand changes across horizons / 需求變化的短長期",
+        "en": "A demand increase raises price and operating output in the short run with a fixed number of firms. Profits then attract entry. With identical constant-cost firms, long-run price returns to minimum ATC while market quantity and firm count rise. Limited inputs or differing firm costs can make LR supply upward sloping.",
+        "zh": "需求增加先令短期價、每家產量及利潤升；長期進入擴大供給。相同固定成本行業長期價回最低 ATC，總量及企業數增加；投入稀缺或成本不同可令長期供給向上。",
+        "example": "Example 例：Long-run price is 10 and firm q=10. Demand expansion raises total long-run Q from 100 to 140, increasing firm count from 10 to 14.",
+        "question": "Constant-cost industry: demand permanently rises. Long-run price? 固定成本行業需求永久增加，長期價？",
+        "options": [
+          "Falls to zero necessarily / 必跌零",
+          "Equals total market quantity / 等於市場總量",
+          "Returns to minimum ATC / 回到最低 ATC",
+          "Stays above ATC forever / 永遠高於 ATC"
+        ],
+        "answer": 2,
+        "why": "Entry expands supply until economic profit is driven to zero.",
+        "graph": "longrun",
+        "file": "ch15-13.html"
+      },
+      {
+        "objective": "Analyze a change in an input price or a firm's technology: shift the appropriate cost curves, determine short-run profits, and trace potential long-run industry adjustment. Consider whether a patented innovation can be copied when assessing entry or competition.",
+        "section": "Long-run equilibrium and changes",
+        "id": "15-14",
+        "position": 14,
+        "title": "Input costs, technology and patents / 投入成本、技術與專利",
+        "en": "An input-price increase raises relevant variable costs and MC, shifting market supply left. Technology can lower costs; trace the short-run price and profits before deciding entry or exit. A patent can keep an innovator's advantage from being copied until it expires.",
+        "zh": "投入價升提高相關 VC、MC，令市場供給左移。技術進步可降成本；先求短期價與利潤再判斷進出。專利可暫時阻止其他企業複製優勢。",
+        "example": "Example 例：One firm's patented process lowers its cost while market price barely changes. It earns extra profit; after expiry, broad adoption can lower market price. 專利到期後優勢可能擴散。",
+        "question": "A patented cost reduction is available only to one small firm. Its immediate profit at an unchanged price? 價不變、單一小企業專利降成本？",
+        "options": [
+          "Falls / 下降",
+          "Must be zero / 必零",
+          "Cannot differ from rivals / 必與對手相同",
+          "Rises / 上升"
+        ],
+        "answer": 3,
+        "why": "Lower costs at a given price raise profit; entry cannot immediately copy protected technology.",
+        "graph": "",
+        "file": "ch15-14.html"
+      }
+    ],
+    "sources": "Ch 15 slides 2–38; `Chapter 15.pdf`, questions 1, 4, 5, 10–11."
+  },
+  {
+    "key": "cross",
+    "title": "Cross-chapter multiple-choice checks",
+    "items": [
+      {
+        "objective": "Label units and the relevant price: market price, buyer price, seller's net price, wage received or employer cost.",
+        "section": "",
+        "id": "cross-01",
+        "position": 1,
+        "title": "Identify the price and units / 確認價格與單位",
+        "en": "Write what each price measures before calculating: buyer payment, seller net receipt, worker wage or employer total cost. A unit tax has currency per unit; government revenue has currency.",
+        "zh": "先標出價格身份及單位：買方付款、賣方淨收、工人淨工資或企業勞工成本。單位稅為每件金額，政府收入則為總金額。",
+        "example": "Example 例：Pb=12,Ps=9,Q=100. The unit wedge is $3 per unit; total revenue is $300. 每件三元與總三百元不同。",
+        "question": "Employer cost=25, worker wage=20, hours=10. Total payroll tax? 工資稅總額？",
+        "options": [
+          "50",
+          "250",
+          "5",
+          "10"
+        ],
+        "answer": 0,
+        "why": "(25−20)×10=50.",
+        "graph": "",
+        "file": "chcross-01.html"
+      },
+      {
+        "objective": "Check whether a question asks for a **change in a curve** or a **movement along** it, and whether other determinants are held constant.",
+        "section": "",
+        "id": "cross-02",
+        "position": 2,
+        "title": "Check curve versus movement / 檢查移線或沿線",
+        "en": "Identify the market and the changed determinant. Own price changes quantity along a curve; another determinant can move the entire curve. Keep all stated “other things equal” assumptions in place.",
+        "zh": "先找市場及變動因素；自身價格改變沿線，其他決定因素改變可移線。題目指定其他不變的條件要保留。",
+        "example": "Example 例：A rise in coffee price moves along coffee demand but can shift tea demand. 同一事件對不同市場的曲線影響不同。",
+        "question": "A good's production cost falls. Which curve shifts in its market? 生產成本下降？",
+        "options": [
+          "The PPF must vanish / PPF 消失",
+          "Supply / 供給",
+          "Demand solely because cost fell / 成本降直接需求移",
+          "Neither; only its own price changed / 只是自身價變"
+        ],
+        "answer": 1,
+        "why": "Cost is a supply determinant, not an own-price movement.",
+        "graph": "",
+        "file": "chcross-02.html"
+      },
+      {
+        "objective": "Distinguish total, average and marginal values; use the marginal value for an additional-unit decision.",
+        "section": "",
+        "id": "cross-03",
+        "position": 3,
+        "title": "Total, average or marginal / 總、平均或邊際",
+        "en": "A total is an accumulated amount; an average divides a total by quantity; a marginal value measures the change from an additional unit. Match the measure to the question's decision.",
+        "zh": "總值是累積金額，平均值為總值除數量，邊際值是多一單位的變化。問是否增加一件，就使用額外收益及額外成本。",
+        "example": "Example 例：TC(4)=40 and TC(5)=47. At q=5, ATC=9.4 but fifth-unit MC=7. 平均與新增成本不同。",
+        "question": "TC rises from 100 to 118 when Q rises from 10 to 12. MC per extra unit over this interval? 每額外單位成本？",
+        "options": [
+          "18",
+          "118",
+          "9",
+          "10"
+        ],
+        "answer": 2,
+        "why": "ΔTC/ΔQ=18/2=9.",
+        "graph": "",
+        "file": "chcross-03.html"
+      },
+      {
+        "objective": "When a numerical answer depends on a graph, identify the quantity actually traded and any stated assumptions about rationing, taxes or subsidies before calculating areas.",
+        "section": "",
+        "id": "cross-04",
+        "position": 4,
+        "title": "Traded quantity and graph assumptions / 交易量與圖形假設",
+        "en": "Before measuring areas, establish actual traded quantity and the effective price paid or received. Under controls, the short side limits voluntary trade and allocation assumptions determine who gets the units.",
+        "zh": "畫面積前先確定售出量及有效價格。管制下自願交易取較小供需量；商品分給誰也會影響福利。",
+        "example": "Example 例：Ceiling gives Qd=80,Qs=50. Use at most 50 traded units for welfare, then state which buyers obtain them. 需求八十不能當作已售八十。",
+        "question": "With Qd=100,Qs=60 under a ceiling and no extra supply, maximum voluntary trades? 最多交易量？",
+        "options": [
+          "100",
+          "160",
+          "40",
+          "60"
+        ],
+        "answer": 3,
+        "why": "The 60-unit supply is the short side.",
+        "graph": "",
+        "file": "chcross-04.html"
+      },
+      {
+        "objective": "For a before-and-after question, distinguish a participant's gain or loss from the change in total surplus and from government revenue or expenditure.",
+        "section": "",
+        "id": "cross-05",
+        "position": 5,
+        "title": "Private gains versus social welfare / 私人收益與社會福利",
+        "en": "Separate changes in CS, PS and government revenue or spending before adding total surplus. A participant gaining money does not establish a social gain; transfers can change distribution without increasing total value.",
+        "zh": "分別算 CS、PS 及政府收入或支出，再加總。某方得益不等於社會總收益增加；轉移付款可只改變分配。",
+        "example": "Example 例：After a subsidy CS rises 30, PS rises 20, government spends 60. Total surplus changes by 30+20−60=−10. 私人均得益但總剩餘減十。",
+        "question": "CS rises 10,PS rises 15,government spends 40. Change in total surplus? 總剩餘變化？",
+        "options": [
+          "−15",
+          "−40",
+          "+25",
+          "+65"
+        ],
+        "answer": 0,
+        "why": "10+15−40=−15.",
+        "graph": "",
+        "file": "chcross-05.html"
+      }
+    ],
+    "sources": ""
+  }
+]
