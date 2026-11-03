@@ -8,6 +8,15 @@ expected=re.findall(r'^- \[ \] (.+)$',(root/'content/checklist.md').read_text(),
 data=json.loads((root/'content/curriculum.json').read_text());items=[x for g in data for x in g['items']]
 assert [x['objective'] for x in items]==expected
 assert len(items)==117
+for group in data:
+ key=group['key']
+ rows=(root/'content'/('cross.txt' if key=='cross' else 'ch'+key+'.txt')).read_text().splitlines()
+ rows=[r for r in rows if r.strip()]
+ for row,item in zip(rows,group['items']):
+  fields=row.split('~')
+  expected_answer=fields[5].split('^')[int(fields[6])]
+  assert item['options'][item['answer']]==expected_answer,(item['id'],'answer changed')
+
 class Page(HTMLParser):
  def __init__(self,p):super().__init__();self.p=p;self.links=[];self.classes=[];self.objective=False;self.objective_depth=0;self.objective_text=''
  def handle_starttag(self,t,attrs):
